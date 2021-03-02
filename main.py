@@ -23,7 +23,6 @@ data = json.loads(raw_data.decode(encoding))
 print(data)   #this would be your json data
 
 
-
 # while True:
 #
 #     for i in range(3):
