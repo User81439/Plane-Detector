@@ -1,3 +1,17 @@
+def getStreamID(streamID):
+    import json
+    import urllib.request
+    # URL still works 2 days later..?
+    url = "https://player.ipcamlive.com/player/getcamerastreamstate.php?_=1614635705120&token=&alias=5b0f2c342aa3a&targetdomain=canair.captiveye002.com"
+    x = urllib.request.urlopen(url)
+    raw_data = x.read()
+    encoding = x.info().get_content_charset('utf8')  # JSON default
+    data = json.loads(raw_data.decode(encoding))
+    alias = data["details"]["streamid"]
+    print(alias)
+    return alias
+
+
 class liveFeedCap:
     # get data from; https://www.canberraairport.com.au/flights/flightcam/
     #                https://canair.captiveye002.com/stream_scaling/public/stream.asp
@@ -19,7 +33,9 @@ class liveFeedCap:
             # https://s8.ipcamlive.com/streams/08emxkrvfjq0sgmea/stream.m3u8
 
             baseURL = "https://s8.ipcamlive.com/streams/"
-            streamID = "08emxkrvfjq0sgmea"  # need to get this from getcamerastate URL
+            # streamID = "08tb3u8xo5hycahvn"  # need to get this from getcamerastate URL
+            SID = "empty"
+            streamID = getStreamID(SID)
             m3u8URL = "/stream.m3u8"
 
             fullStreamURL = baseURL + streamID + m3u8URL
@@ -40,5 +56,3 @@ class liveFeedCap:
             sleep(10 - time() % 10)  # waits for 10 seconds, make 60 & 60 for 1 min etc.
 
         exit()
-
-
