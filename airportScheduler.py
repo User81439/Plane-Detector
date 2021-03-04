@@ -1,38 +1,41 @@
 import schedule
 import time
-import os
 
+runShed = True
 
-def cls():
-    os.system('cls' if os.name == 'nt' else 'clear')
+def job():
+    print("I'm working...")
+    importLive()
 
-
-from liveFeedCapture import liveFeedCap
-
-def capture():
-    pass
+def importLive():
+    from liveFeedCapture import liveFeedCap
 
 class RunSchedule:
 
-    # Arrival Schedule
-    schedule.every().day.at("12:21").do(capture)
-    schedule.every().day.at("09:50").do(capture)
-    schedule.every().day.at("13:50").do(capture)
-    schedule.every().day.at("14:25").do(capture)
-    schedule.every().day.at("14:35").do(capture)
-    schedule.every().day.at("16:50").do(capture)
-    schedule.every().day.at("17:40").do(capture)
-    schedule.every().day.at("17:50").do(capture)
-    schedule.every().day.at("18:15").do(capture)
-    schedule.every().day.at("18:30").do(capture)
-    schedule.every().day.at("19:50").do(capture)
-    schedule.every().day.at("22:40").do(capture)
+    while runShed:
+        schedule.run_pending()
 
-while 1:
-    schedule.run_pending()
-    time.sleep(1)
+        schedule.every().day.at("14:40").do(job)
 
-def capture():
-    print("test")
-    cls()
-    liveFeedCap()
+        schedule.every().day.at("14:42").do(job)
+
+        # runShed = False
+        # exit()
+
+
+    #
+    #     # Arrival Schedule
+    #     schedule.every().day.at("13:05").do(liveFeedCap)
+    #     # schedule.every().day.at("09:50").do(liveFeedCap)
+    #     # schedule.every().day.at("13:50").do(liveFeedCap)
+    #     # schedule.every().day.at("14:25").do(liveFeedCap)
+    #     # schedule.every().day.at("14:35").do(liveFeedCap)
+    #     # schedule.every().day.at("16:50").do(liveFeedCap)
+    #     # schedule.every().day.at("17:40").do(liveFeedCap)
+    #     # schedule.every().day.at("17:50").do(liveFeedCap)
+    #     # schedule.every().day.at("18:15").do(liveFeedCap)
+    #     # schedule.every().day.at("18:30").do(liveFeedCap)
+    #     # schedule.every().day.at("19:50").do(liveFeedCap)
+    #     # schedule.every().day.at("22:40").do(liveFeedCap)
+
+

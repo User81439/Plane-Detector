@@ -21,8 +21,10 @@ class liveFeedCap:
     from time import time, sleep
 
     SID = "empty"
+    imgCounter = 0
+    running = True
 
-    while True:
+    while running:
 
         baseURL = "https://s8.ipcamlive.com/streams/"
         streamID = getStreamID(SID)
@@ -31,6 +33,7 @@ class liveFeedCap:
 
         for i in range(3):
 
+            imgCounter += 1
             playlist = m3u8.load(fullStreamURL)  # URL with playlist file
             tsFiles = playlist.files  # gets .ts files from playlist
             tsIsolated = "/" + tsFiles[0]  # gets the first .ts file from array
@@ -43,17 +46,24 @@ class liveFeedCap:
             # print(image) #debug
             if not returned_image: #catches error
                 print("error grabbing frame")
-                break
-            cv2.imwrite('planes/plane-not-' + str(i) + '.jpg', image)  # writes image to folder
+                i = imgCounter
+                pass
+            cv2.imwrite('planes/plane-not-' + str(imgCounter) + '.jpg', image)  # writes image to folder
 
             capture.release()
 
+            print("img counter: ", imgCounter)
+
             print("image taken!") #debug
 
-            if i < 2: # make 1 less than for loop range to avoid waiting after last image is captured
-                sleep(60 - time() % 60)  # waits for 60 seconds
+            if imgCounter < 3: # make 1 less than for loop range to avoid waiting after last image is captured
+                sleep(10 - time() % 10)  # waits for 60 seconds
 
+            print("i before: ", i)
             i += 1
+            print("i after: ", i)
 
         print("Done!")
-        exit()
+        running = False
+        # exit()
+        continue
