@@ -33,15 +33,15 @@ class liveFeedCap:
 
             playlist = m3u8.load(fullStreamURL)  # URL with playlist file
             tsFiles = playlist.files  # gets .ts files from playlist
-            tsIsolated = "/" + tsFiles[3]  # gets the first .ts file from array
+            tsIsolated = "/" + tsFiles[0]  # gets the first .ts file from array
             print(tsFiles, tsIsolated) #debug
             tsURL = baseURL + streamID + tsIsolated  # URL with ts video file
 
             capture = cv2.VideoCapture(tsURL)  # reads .ts file on URL
-            return_image, image = capture.read()  # captures img | i dont know what 'return_value' does but program breaks without
-            # print(return_image) #debug
+            returned_image, image = capture.read()  # captures img | i dont know what 'return_value' does but program breaks without
+            # print(returned_image) #debug
             # print(image) #debug
-            if not return_image: #catches error
+            if not returned_image: #catches error
                 print("error grabbing frame")
                 break
             cv2.imwrite('planes/plane-not-' + str(i) + '.jpg', image)  # writes image to folder
@@ -50,8 +50,10 @@ class liveFeedCap:
 
             print("image taken!") #debug
 
-            if i < 2:
+            if i < 2: # make 1 less than for loop range to avoid waiting after last image is captured
                 sleep(60 - time() % 60)  # waits for 60 seconds
+
+            i += 1
 
         print("Done!")
         exit()
