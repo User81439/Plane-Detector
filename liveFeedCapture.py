@@ -8,6 +8,7 @@ from time import time, sleep
 import json
 import urllib.request
 
+from Global import Global
 
 class LiveFeedCap:
 
@@ -16,7 +17,6 @@ class LiveFeedCap:
     def liveCapDef(self):
 
         running = True
-        imgCounter = 0
 
         while running:
 
@@ -26,11 +26,11 @@ class LiveFeedCap:
 
             for i in range(3):
 
-                imgCounter += 1
+                Global.imgCounter += 1
 
                 baseURL = "https://s8.ipcamlive.com/streams/"
-                streamID = LiveFeedCap.getStreamID(SID)
                 m3u8URL = "/stream.m3u8"
+                streamID = LiveFeedCap.getStreamID(SID)
                 fullStreamURL = baseURL + streamID + m3u8URL
 
                 playlist = m3u8.load(fullStreamURL)  # URL with playlist file
@@ -44,20 +44,26 @@ class LiveFeedCap:
                 returned_image, image = capture.read()  # captures img | i dont know what 'return_value' does but program breaks without
                 # print(returned_image) #debug
                 # print(image) #debug
-                # if not returned_image:  # catches error
-                #     print("error grabbing frame")
-                    # i = imgCounter
-                    # pass
-                cv2.imwrite('planes/plane-not-' + str(imgCounter) + '.jpg', image)  # writes image to folder
+                if returned_image:  # catches error
+                    cv2.imwrite('planes/plane-not-' + str(Global.imgCounter) + '.jpg', image)  # writes image to folder
 
-                capture.release()
+                    capture.release()
 
                 # print("img counter: ", imgCounter)
 
-                # print("image taken!")  # debug
+                    print("image taken! ", Global.imgCounter)  # debug
 
                 # if imgCounter < 3:  # make 1 less than for loop range to avoid waiting after last image is captured
-                sleep(15)
+                    sleep(15)
+                    print("sleep done")
+
+                if not returned_image:
+                    i = i - 1
+                    Global.imgCounter = Global.imgCounter - 1
+                    print("fucked up, retrying")
+                    continue
+
+                # print("error grabbing frame")
 
                 # print("i before: ", i)
                 # i += 1
@@ -69,13 +75,12 @@ class LiveFeedCap:
 
     def getStreamID(streamID):
 
-        # URL still works 2 days later..? | https://player.ipcamlive.com/player/getcamerastreamstate.php
         url = "https://player.ipcamlive.com/player/getcamerastreamstate.php?_=1614635705120&token=&alias" \
               "=5b0f2c342aa3a&targetdomain=canair.captiveye002.com "
 
-        x = urllib.request.urlopen(url)
-        raw_data = x.read()
-        encoding = x.info().get_content_charset('utf8')  # JSON default
+        phpReturn = urllib.request.urlopen(url)
+        raw_data = phpReturn.read()
+        encoding = phpReturn.info().get_content_charset('utf8')  # JSON default
         data = json.loads(raw_data.decode(encoding))
         alias = data["details"]["streamid"]
         return alias

@@ -1,14 +1,14 @@
 from self import self
 from airportSchedulerClass import AirportSchedulerClass
-from testing import Testing
+# from testing import Testing
 from time import time, sleep
 
 from datetime import datetime
 
-
 class Main:
 
     def main(self):
+
         while True:
             now = datetime.now()
             current_time = now.strftime("%H:%M")
@@ -16,10 +16,9 @@ class Main:
 
             AirportSchedulerClass.scheduler(self, current_time)
 
+            print("starting 1 minute rest")
             sleep(60)
-
-        # print("in main")
-        # AirportSchedulerClass.runSchedule(self)
+            print("completed 1 minute rest")
 
     if __name__ == '__main__':
         main(self)
