@@ -8,7 +8,7 @@ from time import time, sleep
 class Testing:
 
     def shed_test(self, current_time):
-        print("got into test")
+        # print("got into test")
 
         # times = ["13:05", "09:50", "13:50", "14:25", "14:35", "16:50", "17:40", "17:50", "18:15", "18:30", "19:50"]
 

@@ -1,0 +1,21 @@
+canberra airport live cam public site
+https://www.canberraairport.com.au/flights/flightcam/
+
+get the stream ID from | has tokens in URL (?...) so far hasnt expired
+https://player.ipcamlive.com/player/getcamerastreamstate.php?_=1614635705120&token=&alias=5b0f2c342aa3a&targetdomain=canair.captiveye002.com
+get streamid token
+
+attach token to stream source URL
+https://s8.ipcamlive.com/streams/token_goes_here/stream.m3u8
+
+get latest stream.m3u8 file and extract the .ts video file names
+    .ts file is small 3 second video packet
+https://s8.ipcamlive.com/streams/token_goes_here/stream_number_L3000.ts
+
+###################
+# Troubleshooting #
+###################
+error: (-215:Assertion failed) !_img.empty() in function 'imwrite' python
+    the above error is caused by the .ts file link becoming invalid, due to the program taking to long to run through
+    and take the image
+    SOLUTION: reduce lines of code and statements being run through to ensure the link stays valid while a image is taken

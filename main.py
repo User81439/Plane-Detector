@@ -6,9 +6,6 @@ from time import time, sleep
 from datetime import datetime
 
 
-# def runLiveFeed():
-#     liveFeedCap()
-
 class Main:
 
     def main(self):
