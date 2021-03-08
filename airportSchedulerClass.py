@@ -12,7 +12,7 @@ class AirportSchedulerClass:
 
         # times = ["13:05", "09:50", "13:50", "14:25", "14:35", "16:50", "17:40", "17:50", "18:15", "18:30", "19:50"] #?
 
-        times = ["14:30", "14:35", "14:40", "14:45"]  # set times to run here
+        times = ["08:15", "08:17", "08:19", "14:45"]  # set times to run here
 
         the_time = current_time
 
