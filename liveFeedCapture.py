@@ -4,15 +4,18 @@
 
 import cv2
 import m3u8
-from time import time, sleep
+from time import sleep
 import json
 import urllib.request
 
 from Global import Global
 
-class LiveFeedCap:
 
+class LiveFeedCap:
     print("live feed")
+
+    def __init__(self):
+        pass
 
     def liveCapDef(self):
 
@@ -24,7 +27,7 @@ class LiveFeedCap:
 
             # print(fullStreamURL)
 
-            for i in range(3):
+            for i in range(4):
 
                 Global.imgCounter += 1
 
@@ -49,12 +52,12 @@ class LiveFeedCap:
 
                     capture.release()
 
-                # print("img counter: ", imgCounter)
+                    # print("img counter: ", imgCounter)
 
                     print("image taken! ", Global.imgCounter)  # debug
 
-                # if imgCounter < 3:  # make 1 less than for loop range to avoid waiting after last image is captured
-                    sleep(15)
+                    # if imgCounter < 3:  # make 1 less than for loop range to avoid waiting after last image is captured
+                    sleep(45)
                     print("sleep done")
 
                 if not returned_image:
@@ -72,8 +75,7 @@ class LiveFeedCap:
             print("Done!")
             running = False
 
-
-    def getStreamID(streamID):
+    def getStreamID(self):
 
         url = "https://player.ipcamlive.com/player/getcamerastreamstate.php?_=1614635705120&token=&alias" \
               "=5b0f2c342aa3a&targetdomain=canair.captiveye002.com "

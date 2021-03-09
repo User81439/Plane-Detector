@@ -5,30 +5,32 @@
 from liveFeedCapture import LiveFeedCap
 
 
+def job():
+    print("working...")
+    LiveFeedCap.liveCapDef()
+
+
 class AirportSchedulerClass:
-    print("airport shed")
+    # print("airport shed")
 
-    def scheduler(self, current_time):
+    def __init__(self):
+        pass
 
-        # times = ["13:05", "09:50", "13:50", "14:25", "14:35", "16:50", "17:40", "17:50", "18:15", "18:30", "19:50"] #?
+    def scheduler(self):
 
-        times = ["08:15", "08:17", "08:19", "14:45"]  # set times to run here
+        times = ["10:40", "10:45", "10:55", "11:00", "11:05", "11:10"]  # set times to run here
 
-        the_time = current_time
+        the_time = self
 
         for i in times:
             time_to_test = i
 
             if the_time == time_to_test:
                 print("success @ ", time_to_test)
-                AirportSchedulerClass.job(self)
+                job()
                 print("-----------------------------------------------------------------------------------------------")
                 continue
-            else:  # elif? - want to skip if if is true
+            else:
                 print("fail @ ", time_to_test)
 
         print("-----------------------------------------------------------------------------------------------")
-
-    def job(self):
-        print("working...")
-        LiveFeedCap.liveCapDef(self)
