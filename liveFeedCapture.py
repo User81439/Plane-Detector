@@ -8,39 +8,50 @@ from time import sleep
 import json
 import urllib.request
 
-from Global import Global
+# from Global import Global
 
 
-class LiveFeedCap:
+class LiveFeedCapture:
     print("live feed")
 
     def __init__(self):
         pass
 
-    def liveCapDef(self):
+    def get_images(self, images, wait):
 
-        running = True
+        running = self
+        num_img = images
+        wait_between = wait
 
         while running:
 
             SID = "empty"
+            # i = 0
 
             # print(fullStreamURL)
 
-            for i in range(4):
+            for i in range(num_img):
+            # while i < num_img:
 
-                Global.imgCounter += 1
+                #  counter from text file
+                order_idFile = open('../plane/count.txt', 'r')  # open file for reading
+                img_counter = int(order_idFile.read())
+                order_idFile.close()  # close file
+                img_counter += 1  # add 1 to current number
+                order_idFile = open('../plane/count.txt', 'w')  # open file for writing
+                order_idFile.write(str(img_counter))  # convert int to str and write to file
+                order_idFile.close()  # close file
 
-                baseURL = "https://s8.ipcamlive.com/streams/"
-                m3u8URL = "/stream.m3u8"
-                streamID = LiveFeedCap.getStreamID(SID)
-                fullStreamURL = baseURL + streamID + m3u8URL
+                base_url = "https://s8.ipcamlive.com/streams/"
+                m3u8_url = "/stream.m3u8"
+                stream_id = LiveFeedCapture.getStreamID(SID)
+                full_stream_url = base_url + stream_id + m3u8_url
 
-                playlist = m3u8.load(fullStreamURL)  # URL with playlist file
+                playlist = m3u8.load(full_stream_url)  # URL with playlist file
                 tsFiles = playlist.files  # gets .ts files from playlist
                 tsIsolated = "/" + tsFiles[4]  # gets the first .ts file from array
                 # print(tsFiles, tsIsolated)  # debug
-                tsURL = baseURL + streamID + tsIsolated  # URL with ts video file
+                tsURL = base_url + stream_id + tsIsolated  # URL with ts video file
 
                 capture = cv2.VideoCapture(tsURL)  # reads .ts file on URL
 
@@ -48,21 +59,21 @@ class LiveFeedCap:
                 # print(returned_image) #debug
                 # print(image) #debug
                 if returned_image:  # catches error
-                    cv2.imwrite('planes/plane-not-' + str(Global.imgCounter) + '.jpg', image)  # writes image to folder
+                    cv2.imwrite('planes/plane-not-' + str(img_counter) + '.jpg', image)  # writes image to folder
 
                     capture.release()
 
                     # print("img counter: ", imgCounter)
 
-                    print("image taken! ", Global.imgCounter)  # debug
+                    print("image taken! ", img_counter)  # debug
 
                     # if imgCounter < 3:  # make 1 less than for loop range to avoid waiting after last image is captured
-                    sleep(45)
+                    sleep(wait_between)
                     print("sleep done")
 
                 if not returned_image:
                     i = i - 1
-                    Global.imgCounter = Global.imgCounter - 1
+                    img_counter = img_counter - 1
                     print("fucked up, retrying")
                     continue
 
