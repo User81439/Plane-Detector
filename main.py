@@ -9,9 +9,10 @@ class Main:
         pass
 
 
-def main():
+def main():  # take code out of definition for main?
     time_getter = AirportSchedulerClass.get_time
-    time_checker = AirportSchedulerClass.scheduler_timed  # remove _timed to run on actual schedule, just runs everytime
+    # time_checker = AirportSchedulerClass.schedule_times  # runs on scheduled times
+    time_checker = AirportSchedulerClass.schedule_instant  # instantly runs
     def_runner = LiveFeedCapture.get_images
 
     num_img = 4  # number of images to capture each time the program runs
@@ -20,6 +21,7 @@ def main():
 
     while True:
         # get time
+        sleep(360)
         curr_time = time_getter(time_str)
         print(curr_time)
 

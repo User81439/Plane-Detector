@@ -8,8 +8,6 @@ from time import sleep
 import json
 import urllib.request
 
-# from Global import Global
-
 
 class LiveFeedCapture:
     print("live feed")
@@ -95,5 +93,8 @@ class LiveFeedCapture:
         raw_data = phpReturn.read()
         encoding = phpReturn.info().get_content_charset('utf8')  # JSON default
         data = json.loads(raw_data.decode(encoding))
-        alias = data["details"]["streamid"]
-        return alias
+        stream_id = data["details"]["streamid"]
+        if stream_id != "None":  # all untested error checking
+            return stream_id
+        else:
+            pass

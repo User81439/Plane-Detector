@@ -19,11 +19,11 @@ class AirportSchedulerClass:
         return current_time
 
     @staticmethod # get rid of if cant loop, just to appease error
-    def scheduler_timed(current_time):
+    def schedule_instant(current_time):
         current_time = datetime.now()
         return current_time
 
-    def scheduler(self):
+    def schedule_times(self):
 
         times = ["11:15", "11:16", "11:22", "11:14", "11:05", "11:10"]  # set times to run here
         the_time = self
