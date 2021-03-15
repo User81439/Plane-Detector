@@ -2,6 +2,9 @@ from airportSchedulerClass import AirportSchedulerClass
 from liveFeedCapture import LiveFeedCapture
 from time import sleep
 
+#######################################################
+# Find out how to build OpenCV Annotations with CMake #
+#######################################################
 
 class Main:
 
