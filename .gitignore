@@ -1,1 +1,7 @@
 /venv/
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/plane-master.iml
+.idea/vcs.xml
