@@ -3,7 +3,6 @@
 create pos file:
 /Users/hamishscott/PycharmProjects/opencv/build/UILD_opencv_apps\=ON/bin/opencv_annotation --annotations=pos.txt --images=planes/planes
 
-
 create samples:
 /Users/hamishscott/PycharmProjects/opencv/build/UILD_opencv_apps\=ON/bin/opencv_createsamples -info pos.txt -w 24 -h 24 -num 1000 -vec pos.vec
 
