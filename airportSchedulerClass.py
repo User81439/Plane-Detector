@@ -8,30 +8,42 @@ from datetime import datetime
 class AirportSchedulerClass:
     print("airport shed")
 
-    def __init__(self):
-        pass
+    def __init__(self, listOfTimes):
+        self.times = listOfTimes
 
-    @staticmethod # get rid of if cant loop, just to appease error
-    def get_time(current_time):
+    def get_time(self):
         now = datetime.now()
         current_time = now.strftime("%H:%M")
         # print("Current Time =", current_time)
         return current_time
 
-    @staticmethod # get rid of if cant loop, just to appease error
-    def schedule_instant(current_time):
-        current_time = datetime.now()
-        return current_time
+    # def schedule_instant(self):
+    #     current_time = datetime.now()
+    #     return current_time
 
-    def schedule_times(self):
+    def validate_time(self, curr_time):
+        if curr_time in self.times:
+            return True
+        else:
+            return False
 
-        times = ["11:15", "11:16", "11:22", "11:14", "11:05", "11:10"]  # set times to run here
-        the_time = self
+    def validate_time_instant(self, curr_time):
+        now = datetime.now()
+        current_time = now.strftime("%H:%M")
+        if curr_time == current_time:
+            return True
+        else:
+            return False
 
-        for i in times:
-            time_to_test = i
-
-            if the_time == time_to_test:
-                return True
-            else:
-                continue
+    # def schedule_times(self, time):
+    #
+    #     # times =   # set times to run here
+    #     the_time = time
+    #
+    #     for i in self.times:
+    #         time_to_test = i
+    #
+    #         if the_time == time_to_test:
+    #             return True
+    #         else:
+    #             continue
