@@ -14,6 +14,6 @@ def rename(path, header):
 
 if __name__ == '__main__':
     # Rename Planes
-    rename('/Users/elp/Downloads/plane-master/plane/planes/planes/', 'plane_')
+    rename('../planes/planes/', 'plane_')
     # Rename Not Planes
     rename('/Users/elp/Downloads/plane-master/plane/planes/not/', 'empty')

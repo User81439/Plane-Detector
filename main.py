@@ -34,7 +34,7 @@ def main():  # take code out of definition for main?
         print(curr_time)
 
         # compare time
-        run_def = canberraAirport.validate_time_instant(curr_time)
+        run_def = canberraAirport.validate_time(curr_time)
 
         # run program
         if run_def:

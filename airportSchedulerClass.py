@@ -1,7 +1,7 @@
 #######################################
 # Schedule / Timing for image capture #
 #######################################
-test
+
 
 from datetime import datetime
 
@@ -18,10 +18,6 @@ class AirportSchedulerClass:
         # print("Current Time =", current_time)
         return current_time
 
-    # def schedule_instant(self):
-    #     current_time = datetime.now()
-    #     return current_time
-
     def validate_time(self, curr_time):
         if curr_time in self.times:
             return True
@@ -36,15 +32,3 @@ class AirportSchedulerClass:
         else:
             return False
 
-    # def schedule_times(self, time):
-    #
-    #     # times =   # set times to run here
-    #     the_time = time
-    #
-    #     for i in self.times:
-    #         time_to_test = i
-    #
-    #         if the_time == time_to_test:
-    #             return True
-    #         else:
-    #             continue
