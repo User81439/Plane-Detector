@@ -2,12 +2,10 @@
 # Schedule / Timing for image capture #
 #######################################
 
-
 from datetime import datetime
 
 
 class AirportSchedulerClass:
-    print("airport shed")
 
     def __init__(self, listOfTimes):
         self.times = listOfTimes

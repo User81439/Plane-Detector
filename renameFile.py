@@ -1,19 +1,24 @@
 import os
 
-
-def rename(path, header):
-    i = 1
-
-    for filename in os.listdir(path):
-        dest = path + header + str(i) + ".jpg"
-        src = path + filename
-
-        os.rename(src, dest)
-        i += 1
+###############################
+# change to test data to test #
+###############################
 
 
-if __name__ == '__main__':
-    # Rename Planes
-    rename('../planes/planes/', 'plane_')
-    # Rename Not Planes
-    rename('/Users/elp/Downloads/plane-master/plane/planes/not/', 'empty')
+class renameFile:
+
+    def rename(self):
+        directory = "Images/planes/"
+        # directory = "Images/not/"
+        img_type = "plane_"
+        # img_type = "empty_"
+        img_location = 'Images/planes/'
+        # img_location = 'Images/not/'
+        img_destination = 'Images/planes_sorted/'
+        # img_destination = 'Images/planes_empty/'
+
+        for count, filename in enumerate(os.listdir(directory)):
+            new_name = img_type + str(count) + ".jpg"
+            source = img_location + filename
+            destination = img_destination + new_name
+            os.rename(source, destination)
