@@ -1,6 +1,7 @@
 #######################################
 # Schedule / Timing for image capture #
 #######################################
+test
 
 from datetime import datetime
 
