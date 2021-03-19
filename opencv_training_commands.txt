@@ -1,0 +1,13 @@
+/Users/hamishscott/PycharmProjects/opencv/build/UILD_opencv_apps\=ON/bin
+/Users/hamishscott/PycharmProjects/opencv/build/bin/
+/usr/local/bin/
+
+create pos file:
+/usr/local/bin/opencv_annotation --annotations=pos1.txt --images=Images/planes
+
+create samples:
+/usr/local/bin/opencv_createsamples -info pos1.txt -w 20 -h 20 -num 500 -vec pos1.vec
+
+
+cascade? idk WIP
+/usr/local/bin/opencv_traincascade -vec pos.vec -bg neg.txt -w 24 -h 24 -numPos 200 -numNeg 100 -numStage 10
