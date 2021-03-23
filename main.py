@@ -11,6 +11,8 @@ class Main:
 
 def main():  # take code out of definition for main?
 
+    ##  the img captureres only seem to crash on internal network, no issues at home..
+
     # run_capture()
 
     manual_img_grabber()

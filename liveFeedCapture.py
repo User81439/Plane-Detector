@@ -10,7 +10,6 @@ import urllib.request
 
 
 class LiveFeedCapture:
-    print("live feed")
 
     def __init__(self, ):
         pass
