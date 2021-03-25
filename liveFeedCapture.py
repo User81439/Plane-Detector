@@ -20,7 +20,6 @@ class LiveFeedCapture:
         num_img = images
         wait_between = wait
         stream_id = SID
-        # loop_time = time()
 
         while running:
 

@@ -13,5 +13,5 @@ cascade training
 /usr/local/bin/opencv_traincascade -data cascade -vec pos.vec -bg neg.txt -w 20 -h 20 -numPos 200 -numNeg 100 -numStage 10
 
     need more than 35 samples, cant get while its raining..
-? | /usr/local/bin/opencv_traincascade -data cascade -vec pos.vec -bg neg.txt -w 20 -h 20 -numPos 50 -numNeg 100 -numStage 4
+? | /usr/local/bin/opencv_traincascade -data cascade -vec pos.vec -bg neg.txt -w 20 -h 20 -numPos 50 -numNeg 100 -numStages 4
 
