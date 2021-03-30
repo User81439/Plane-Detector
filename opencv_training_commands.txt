@@ -3,15 +3,18 @@
 /usr/local/bin/
 
 create pos file:
-/usr/local/bin/opencv_annotation --annotations=pos.txt --images=Images/planes_sorted
+/usr/local/bin/opencv_annotation --annotations=pos1.txt --images=Images/planes_sorted
 
 create samples:
-/usr/local/bin/opencv_createsamples -info pos.txt -w 20 -h 20 -num 500 -vec pos.vec
+/usr/local/bin/opencv_createsamples -info pos1.txt -w 20 -h 20 -num 500 -vec pos1.vec
 
+Need more images to train; 100 pos 200 neg ?
 
 cascade training
-/usr/local/bin/opencv_traincascade -data cascade -vec pos.vec -bg neg.txt -w 20 -h 20 -numPos 200 -numNeg 100 -numStage 10
+/usr/local/bin/opencv_traincascade -data cascade2 -vec pos1.vec -bg neg.txt -w 20 -h 20 -numPos 110 -numNeg 100 -numStage 8 -maxFalseAlarmRate 0.3 -minHitRate 0.999
+/usr/local/bin/opencv_traincascade -data cascade2 -vec pos.vec -bg neg.txt -w 24 -h 24 -numPos 50 -numNeg 100
 
-    need more than 35 samples, cant get while its raining..
-? | /usr/local/bin/opencv_traincascade -data cascade -vec pos.vec -bg neg.txt -w 20 -h 20 -numPos 50 -numNeg 100 -numStages 4
+try:
+/usr/local/bin/opencv_traincascade -data cascade3 -vec pos1.vec -bg neg.txt -w 24 -h 24 -numPos 500 -numNeg 500 -numStages 12 -maxFalseAlarmRate 0.3 -minHitRate 0.999
+
 

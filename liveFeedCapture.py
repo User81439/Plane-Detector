@@ -11,9 +11,34 @@ import urllib.request
 
 class LiveFeedCapture:
 
-    def __init__(self, ):
-        pass
+    def __init__(self):
+        self.base_url = "https://s8.ipcamlive.com/streams/"
+        self.stream_id = "empty"
+        self.set_stream_id()
 
+    def set_stream_id(self):
+
+        url = "https://player.ipcamlive.com/player/getcamerastreamstate.php?alias=5b0f2c342aa3a&targetdomain=canair.captiveye002.com"
+
+        phpReturn = urllib.request.urlopen(url)
+        raw_data = phpReturn.read()
+        encoding = phpReturn.info().get_content_charset('utf8')  # JSON default
+        data = json.loads(raw_data.decode(encoding))
+        stream_id = data["details"]["streamid"]
+        self.stream_id = stream_id
+
+    def get_stream_url(self):
+        stream_url = self.base_url + self.stream_id + "/stream.m3u8"
+        return stream_url
+
+    def get_ts_file(self, stream_url):
+        playlist = m3u8.load(stream_url)
+        tsFiles = playlist.files
+        tsIsolated = "/" + tsFiles[4]
+        ts_url = self.base_url + self.stream_id + tsIsolated
+        return ts_url
+
+    ##  OLD
     def get_images(self, runner, images, wait, SID):
 
         running = runner
@@ -58,17 +83,3 @@ class LiveFeedCapture:
 
             print("Done!")
             running = False
-
-    def getStreamID(self):
-
-        url = "https://player.ipcamlive.com/player/getcamerastreamstate.php?alias=5b0f2c342aa3a&targetdomain=canair.captiveye002.com"
-
-        phpReturn = urllib.request.urlopen(url)
-        raw_data = phpReturn.read()
-        encoding = phpReturn.info().get_content_charset('utf8')  # JSON default
-        data = json.loads(raw_data.decode(encoding))
-        stream_id = data["details"]["streamid"]
-        if stream_id != "None":  # all untested error checking
-            return stream_id
-        else:
-            pass

@@ -13,7 +13,6 @@ Images/empty_sorted/empty_69.jpg
 Images/empty_sorted/empty_55.jpg
 Images/empty_sorted/empty_41.jpg
 Images/empty_sorted/empty_79.jpg
-Images/empty_sorted/.DS_Store
 Images/empty_sorted/empty_45.jpg
 Images/empty_sorted/empty_51.jpg
 Images/empty_sorted/empty_86.jpg

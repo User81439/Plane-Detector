@@ -1,87 +1,86 @@
 import cv2
-from time import time
-from vision import Vision
+from time import time, sleep
+from liveFeedCapture import LiveFeedCapture
 
 
 class ManualIMGgrab:
 
-    def plane_detector(self):  ## WIP to get planes highlighted.
+    def plane_detector(self, detection_method, use_classifer=False, enable_keyboard=False):  ## WIP to get planes highlighted.
+        running = True
+        source_input = detection_method
 
         # load the trained model
-        cascade_plane = cv2.CascadeClassifier('cascade/cascade.xml')  # get plane detector working
-        # load an empty Vision class
-        vision_limestone = Vision(None)  # what is vision?
+        cascade_plane = cv2.CascadeClassifier('cascade2/cascade.xml')  # get plane detector working
 
-        stream_url = self.url_builder()
+        lc = LiveFeedCapture()
+        stream_url = lc.get_stream_url()
 
-        vid = cv2.VideoCapture(stream_url)
+        if source_input == "live":
+            vid = cv2.VideoCapture(stream_url)
 
-        while True:
+        elif source_input == "img":
+            vid = cv2.VideoCapture('Images/planes_sorted/plane_10.jpg')
 
-            returned_image, image = vid.read()  # wincap is a Class, we need url feed
+        elif source_input == "ts":
+            pass
+        else:
+            raise Exception("Bad source input")
 
-            # do object detection
-            rectangles = cascade_plane.detectMultiScale(image)
+        while running:
+            print("starting")
 
-            # draw the detection results onto the original image
-            detection_image = vision_limestone.draw_rectangles(image, rectangles)
+            if source_input == "ts":
+                ts_url = lc.get_ts_file(stream_url)
+                vid = cv2.VideoCapture(ts_url)
 
-            # display the images
-            cv2.imshow('Matches', detection_image)
-
-
-        # rectangles = cascade_plane.detectMultiScale(image)  # get plane detector working
-
+            returned_image, image = vid.read()
 
             if returned_image:
 
-                cv2.imshow('frame', image)
-                rectangles = cascade_plane.detectMultiScale(image)  # get plane detector working
+                # do object detection
+                rectangles = cascade_plane.detectMultiScale(image)
 
-                loop_time = time()
+                # draw the detection results onto the original image
+                detection_image = self.draw_rectangles(image, rectangles)
+
+                # display the images
+                cv2.imshow('Matches', detection_image)
 
                 key = cv2.waitKey(1)
                 if key & 0xFF == ord('q'):
                     print("quitting")
+                    running = False
                     break
-                elif key == ord('p'):
-                    cv2.imwrite('Images/planes/{}.jpg'.format(loop_time), image)
-                    print("Plane Image Taken")
 
-                elif key == ord('n'):
-                    cv2.imwrite('Images/not/{}.jpg'.format(loop_time), image)
-                    print("Empty Image Taken")
+                if not returned_image:
+                    vid.release()
+                    cv2.destroyAllWindows()
+                    running = False
+                    print("in not")
+                    break
 
-            if not returned_image:
-                print("in not")
-                break
-
-            # else:
-            #     running = False
-
-        print("err")
+                print("running again?")
+                # running = False
 
         vid.release()
         cv2.destroyAllWindows()
 
     def img_capture(self):
         running = True
+        lc = LiveFeedCapture()
 
-        stream_url = self.url_builder()
+        stream_url = lc.get_stream_url()
+
 
         vid = cv2.VideoCapture(stream_url)
 
-        # cascade_plane = cv2.CascadeClassifier('cascade/cascade.xml')  # get plane detector working
-        # rectangles = cascade_plane.detectMultiScale(image)  # get plane detector working
-
         while running:
-
+            print("starting")
             returned_image, image = vid.read()
 
             if returned_image:
 
                 cv2.imshow('frame', image)
-                # rectangles = cascade_plane.detectMultiScale(image)  # get plane detector working
 
                 loop_time = time()
 
@@ -98,23 +97,32 @@ class ManualIMGgrab:
                     print("Empty Image Taken")
 
             if not returned_image:
+
+                vid.release()
+                cv2.destroyAllWindows()
+                running = False
                 print("in not")
                 break
 
-            # else:
-            #     running = False
-
-        print("err")
+            print("running again?")
+            running = True
 
         vid.release()
         cv2.destroyAllWindows()
 
-    def url_builder(self):
-        from liveFeedCapture import LiveFeedCapture
-        get_SID = LiveFeedCapture()
-        stream_id = get_SID.getStreamID()
-        base_url = "https://s8.ipcamlive.com/streams/"
-        m3u8_url = "/stream.m3u8"
-        stream_url = base_url + stream_id + m3u8_url
-        return stream_url
+        return running
 
+
+    def draw_rectangles(self, image, rectangles):
+        # these colors are actually BGR
+        line_color = (0, 255, 0)
+        line_type = cv2.LINE_4
+
+        for (x, y, w, h) in rectangles:
+            # determine the box positions
+            top_left = (x, y)
+            bottom_right = (x + w, y + h)
+            # draw the box
+            cv2.rectangle(image, top_left, bottom_right, line_color, lineType=line_type)
+
+        return image

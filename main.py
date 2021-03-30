@@ -1,12 +1,13 @@
-from airportSchedulerClass import AirportSchedulerClass
+from airportScheduler import AirportSchedulerClass
 from liveFeedCapture import LiveFeedCapture
 from time import sleep
+import utils
 
 
-class Main:
-
-    def __init__(self):
-        pass
+# class Main:
+#
+#     def __init__(self):
+#         pass
 
 
 def main():  # take code out of definition for main?
@@ -15,11 +16,17 @@ def main():  # take code out of definition for main?
 
     # run_capture()
 
-    manual_img_grabber()
+    # manual_img_grabber()
+
+    detection_method = "live"
+    # detection_method = "img"
+    # detection_method = "ts"
+
+    plane_detector(detection_method)
 
     ##  be careful when running, only do when needed
-    # run_renamer()
-    # run_negative_generator()
+    # utils.rename_files()
+    # utils.generate_negative_description_file()
 
 
 def run_capture():
@@ -54,22 +61,18 @@ def run_capture():
             continue
 
 
-def run_renamer():
-    from renameFile import renameFile
-    rename_class = renameFile()
-    rename_class.rename()
-
-
-def run_negative_generator():
-    from generateNegitiveFile import generateNegitiveFile
-    generate_negative = generateNegitiveFile()
-    generate_negative.generate_negative_description_file()
-
-
 def manual_img_grabber():
     from ManualIMGgrab import ManualIMGgrab
     grabber = ManualIMGgrab()
-    grabber.img_capture()
+    status = True
+    while True:
+        status = grabber.img_capture()
+
+
+def plane_detector(detection_method):
+    from ManualIMGgrab import ManualIMGgrab
+    detector = ManualIMGgrab()
+    detector.plane_detector(detection_method)
 
 
 if __name__ == '__main__':
