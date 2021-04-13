@@ -1,0 +1,357 @@
+Images/planes3_sorted/plane3_0.jpg 2 844 63 157 66 677 137 144 77
+Images/planes3_sorted/plane3_1.jpg 2 677 132 146 74 843 65 158 61
+Images/planes3_sorted/plane3_10.jpg 2 847 77 155 65 954 77 70 38
+Images/planes3_sorted/plane3_100.jpg 3 944 62 81 41 746 82 238 82 706 149 106 59
+Images/planes3_sorted/plane3_101.jpg 4 751 81 230 79 1001 32 31 34 949 64 79 38 700 145 112 61
+Images/planes3_sorted/plane3_102.jpg 3 613 88 243 80 704 151 108 57 944 62 83 39
+Images/planes3_sorted/plane3_103.jpg 2 843 63 157 61 666 137 159 64
+Images/planes3_sorted/plane3_104.jpg 2 672 135 152 67 843 60 158 69
+Images/planes3_sorted/plane3_105.jpg 2 450 134 122 41 846 63 159 67
+Images/planes3_sorted/plane3_106.jpg 2 680 134 145 76 844 65 158 63
+Images/planes3_sorted/plane3_107.jpg 2 667 129 158 76 845 59 138 71
+Images/planes3_sorted/plane3_108.jpg 2 744 80 238 79 848 63 155 61
+Images/planes3_sorted/plane3_109.jpg 1 336 85 166 53
+Images/planes3_sorted/plane3_11.jpg 1 445 79 165 53
+Images/planes3_sorted/plane3_110.jpg 1 609 53 166 89
+Images/planes3_sorted/plane3_111.jpg 1 464 71 155 56
+Images/planes3_sorted/plane3_112.jpg 1 845 51 160 67
+Images/planes3_sorted/plane3_113.jpg 2 780 144 88 36 958 76 48 41
+Images/planes3_sorted/plane3_114.jpg 1 681 154 142 62
+Images/planes3_sorted/plane3_115.jpg 1 838 56 168 76
+Images/planes3_sorted/plane3_116.jpg 1 907 29 81 26
+Images/planes3_sorted/plane3_117.jpg 1 841 70 159 63
+Images/planes3_sorted/plane3_118.jpg 2 775 141 105 48 961 77 63 39
+Images/planes3_sorted/plane3_119.jpg 1 844 50 156 61
+Images/planes3_sorted/plane3_12.jpg 1 639 80 162 42
+Images/planes3_sorted/plane3_120.jpg 1 666 63 183 75
+Images/planes3_sorted/plane3_121.jpg 1 726 66 189 72
+Images/planes3_sorted/plane3_122.jpg 1 576 76 165 71
+Images/planes3_sorted/plane3_123.jpg 2 848 63 152 62 752 84 231 78
+Images/planes3_sorted/plane3_124.jpg 4 480 76 208 77 679 130 143 74 955 58 57 44 955 58 57 44
+Images/planes3_sorted/plane3_125.jpg 2 674 143 149 62 844 65 161 63
+Images/planes3_sorted/plane3_126.jpg 1 844 68 159 60
+Images/planes3_sorted/plane3_127.jpg 1 764 68 156 45
+Images/planes3_sorted/plane3_128.jpg 2 673 136 151 70 843 64 160 64
+Images/planes3_sorted/plane3_129.jpg 1 844 64 156 66
+Images/planes3_sorted/plane3_13.jpg 3 842 75 160 59 949 78 75 33 194 170 40 20
+Images/planes3_sorted/plane3_130.jpg 2 846 61 157 63 747 84 233 79
+Images/planes3_sorted/plane3_131.jpg 2 673 136 151 72 844 60 134 64
+Images/planes3_sorted/plane3_132.jpg 1 728 71 164 44
+Images/planes3_sorted/plane3_133.jpg 2 618 72 178 75 199 150 53 26
+Images/planes3_sorted/plane3_134.jpg 1 756 69 191 70
+Images/planes3_sorted/plane3_135.jpg 1 726 65 178 52
+Images/planes3_sorted/plane3_136.jpg 1 845 51 153 65
+Images/planes3_sorted/plane3_137.jpg 1 184 244 80 36
+Images/planes3_sorted/plane3_138.jpg 2 564 140 95 39 966 76 60 44
+Images/planes3_sorted/plane3_139.jpg 2 776 137 110 51 964 78 61 37
+Images/planes3_sorted/plane3_14.jpg 2 778 135 107 58 979 86 45 31
+Images/planes3_sorted/plane3_140.jpg 1 503 80 146 42
+Images/planes3_sorted/plane3_141.jpg 2 948 63 76 37 665 133 159 63
+Images/planes3_sorted/plane3_142.jpg 4 784 125 85 39 945 64 80 38 572 83 101 31 681 143 140 55
+Images/planes3_sorted/plane3_143.jpg 1 166 91 102 46
+Images/planes3_sorted/plane3_144.jpg 2 778 138 106 51 960 80 66 38
+Images/planes3_sorted/plane3_145.jpg 1 845 51 158 62
+Images/planes3_sorted/plane3_146.jpg 1 23 133 163 46
+Images/planes3_sorted/plane3_147.jpg 2 380 93 150 39 898 46 102 31
+Images/planes3_sorted/plane3_148.jpg 1 737 49 138 47
+Images/planes3_sorted/plane3_149.jpg 1 75 265 96 36
+Images/planes3_sorted/plane3_15.jpg 1 664 70 158 44
+Images/planes3_sorted/plane3_150.jpg 2 671 137 153 69 840 66 148 66
+Images/planes3_sorted/plane3_151.jpg 1 570 65 152 74
+Images/planes3_sorted/plane3_152.jpg 2 847 60 154 60 748 85 234 73
+Images/planes3_sorted/plane3_153.jpg 1 845 64 160 68
+Images/planes3_sorted/plane3_154.jpg 2 843 66 160 62 679 139 145 68
+Images/planes3_sorted/plane3_155.jpg 2 680 132 146 73 845 61 156 65
+Images/planes3_sorted/plane3_156.jpg 1 841 65 161 62
+Images/planes3_sorted/plane3_157.jpg 1 381 96 155 38
+Images/planes3_sorted/plane3_158.jpg 2 846 60 157 64 749 85 233 74
+Images/planes3_sorted/plane3_159.jpg 2 847 65 135 61 0 260 78 68
+Images/planes3_sorted/plane3_16.jpg 1 867 43 129 41
+Images/planes3_sorted/plane3_160.jpg 1 640 77 163 41
+Images/planes3_sorted/plane3_161.jpg 1 670 70 144 40
+Images/planes3_sorted/plane3_162.jpg 1 734 69 192 69
+Images/planes3_sorted/plane3_163.jpg 1 846 51 156 59
+Images/planes3_sorted/plane3_164.jpg 1 688 159 134 55
+Images/planes3_sorted/plane3_165.jpg 4 653 51 167 53 845 54 154 58 731 96 215 54 686 123 131 69
+Images/planes3_sorted/plane3_166.jpg 1 505 71 140 59
+Images/planes3_sorted/plane3_167.jpg 1 690 73 149 41
+Images/planes3_sorted/plane3_168.jpg 4 583 77 109 60 677 126 145 67 842 54 158 59 960 37 66 54
+Images/planes3_sorted/plane3_169.jpg 1 686 154 137 65
+Images/planes3_sorted/plane3_17.jpg 1 766 57 195 73
+Images/planes3_sorted/plane3_170.jpg 1 846 48 157 63
+Images/planes3_sorted/plane3_171.jpg 1 689 69 194 69
+Images/planes3_sorted/plane3_172.jpg 1 749 68 193 70
+Images/planes3_sorted/plane3_173.jpg 1 791 62 153 54
+Images/planes3_sorted/plane3_174.jpg 1 644 73 160 45
+Images/planes3_sorted/plane3_175.jpg 2 674 133 148 74 848 60 136 71
+Images/planes3_sorted/plane3_176.jpg 2 844 62 159 63 749 82 238 78
+Images/planes3_sorted/plane3_177.jpg 1 845 65 159 65
+Images/planes3_sorted/plane3_178.jpg 2 676 137 151 73 845 66 157 62
+Images/planes3_sorted/plane3_179.jpg 1 844 67 157 58
+Images/planes3_sorted/plane3_18.jpg 1 600 46 89 37
+Images/planes3_sorted/plane3_180.jpg 2 672 136 155 74 844 62 161 63
+Images/planes3_sorted/plane3_181.jpg 1 364 75 96 36
+Images/planes3_sorted/plane3_182.jpg 2 671 135 154 74 845 64 138 61
+Images/planes3_sorted/plane3_183.jpg 3 376 105 233 82 950 67 75 35 846 62 154 62
+Images/planes3_sorted/plane3_184.jpg 1 818 48 131 49
+Images/planes3_sorted/plane3_185.jpg 1 164 113 167 44
+Images/planes3_sorted/plane3_186.jpg 1 719 87 65 21
+Images/planes3_sorted/plane3_187.jpg 1 457 81 161 57
+Images/planes3_sorted/plane3_188.jpg 1 843 51 159 60
+Images/planes3_sorted/plane3_189.jpg 4 652 52 166 48 844 54 155 59 733 99 211 62 673 129 140 65
+Images/planes3_sorted/plane3_19.jpg 1 895 82 132 49
+Images/planes3_sorted/plane3_190.jpg 1 775 67 150 46
+Images/planes3_sorted/plane3_191.jpg 1 671 154 151 70
+Images/planes3_sorted/plane3_192.jpg 1 671 154 155 73
+Images/planes3_sorted/plane3_193.jpg 4 653 49 165 55 671 123 152 71 731 101 217 61 847 53 153 61
+Images/planes3_sorted/plane3_194.jpg 1 844 50 158 61
+Images/planes3_sorted/plane3_195.jpg 1 573 68 151 77
+Images/planes3_sorted/plane3_196.jpg 1 669 65 148 45
+Images/planes3_sorted/plane3_197.jpg 1 726 68 114 45
+Images/planes3_sorted/plane3_198.jpg 4 321 91 159 51 753 86 229 71 845 61 158 66 955 67 71 34
+Images/planes3_sorted/plane3_199.jpg 2 670 133 155 73 848 61 138 65
+Images/planes3_sorted/plane3_2.jpg 4 934 45 88 38 846 61 156 62 750 81 232 78 629 106 70 24
+Images/planes3_sorted/plane3_20.jpg 3 700 149 114 56 755 86 227 80 949 62 77 41
+Images/planes3_sorted/plane3_200.jpg 2 679 135 149 68 849 64 154 60
+Images/planes3_sorted/plane3_201.jpg 1 841 61 162 70
+Images/planes3_sorted/plane3_202.jpg 1 848 66 155 64
+Images/planes3_sorted/plane3_203.jpg 2 843 65 158 64 953 68 72 35
+Images/planes3_sorted/plane3_204.jpg 1 859 53 100 42
+Images/planes3_sorted/plane3_205.jpg 1 538 74 135 55
+Images/planes3_sorted/plane3_206.jpg 1 714 70 189 68
+Images/planes3_sorted/plane3_207.jpg 1 664 73 154 43
+Images/planes3_sorted/plane3_208.jpg 1 535 82 193 63
+Images/planes3_sorted/plane3_209.jpg 1 82 124 161 50
+Images/planes3_sorted/plane3_21.jpg 4 383 160 94 38 657 71 152 42 754 86 232 72 846 64 156 62
+Images/planes3_sorted/plane3_210.jpg 1 662 66 156 43
+Images/planes3_sorted/plane3_211.jpg 1 842 62 160 61
+Images/planes3_sorted/plane3_212.jpg 1 843 67 158 67
+Images/planes3_sorted/plane3_213.jpg 1 612 78 162 45
+Images/planes3_sorted/plane3_214.jpg 1 765 67 189 71
+Images/planes3_sorted/plane3_215.jpg 1 462 61 102 41
+Images/planes3_sorted/plane3_216.jpg 1 509 91 199 63
+Images/planes3_sorted/plane3_217.jpg 1 620 77 172 63
+Images/planes3_sorted/plane3_218.jpg 1 720 57 125 42
+Images/planes3_sorted/plane3_219.jpg 1 691 76 160 38
+Images/planes3_sorted/plane3_22.jpg 2 845 65 157 61 677 137 147 67
+Images/planes3_sorted/plane3_220.jpg 1 777 67 148 45
+Images/planes3_sorted/plane3_221.jpg 1 852 32 85 32
+Images/planes3_sorted/plane3_222.jpg 2 846 63 157 67 948 67 78 36
+Images/planes3_sorted/plane3_223.jpg 1 845 62 159 64
+Images/planes3_sorted/plane3_224.jpg 1 801 54 113 49
+Images/planes3_sorted/plane3_225.jpg 3 354 114 232 75 953 68 72 36 846 63 154 56
+Images/planes3_sorted/plane3_226.jpg 1 723 61 187 69
+Images/planes3_sorted/plane3_227.jpg 1 662 73 159 46
+Images/planes3_sorted/plane3_228.jpg 2 618 35 96 45 675 70 139 37
+Images/planes3_sorted/plane3_229.jpg 1 550 77 194 68
+Images/planes3_sorted/plane3_23.jpg 3 0 125 58 31 846 63 155 61 673 138 149 67
+Images/planes3_sorted/plane3_230.jpg 1 687 153 140 75
+Images/planes3_sorted/plane3_231.jpg 3 256 99 59 20 846 62 154 65 783 123 83 40
+Images/planes3_sorted/plane3_232.jpg 3 843 67 159 59 782 126 86 34 674 141 145 64
+Images/planes3_sorted/plane3_233.jpg 1 688 154 138 73
+Images/planes3_sorted/plane3_234.jpg 1 768 70 182 67
+Images/planes3_sorted/plane3_235.jpg 1 917 52 107 32
+Images/planes3_sorted/plane3_236.jpg 1 702 74 165 40
+Images/planes3_sorted/plane3_237.jpg 1 603 75 166 70
+Images/planes3_sorted/plane3_238.jpg 1 560 70 159 63
+Images/planes3_sorted/plane3_239.jpg 1 737 69 130 41
+Images/planes3_sorted/plane3_24.jpg 2 847 65 154 63 683 140 138 59
+Images/planes3_sorted/plane3_240.jpg 1 501 90 188 64
+Images/planes3_sorted/plane3_241.jpg 2 845 63 155 60 953 69 71 34
+Images/planes3_sorted/plane3_242.jpg 1 113 107 92 36
+Images/planes3_sorted/plane3_243.jpg 1 743 71 155 40
+Images/planes3_sorted/plane3_244.jpg 2 951 65 73 37 847 67 153 61
+Images/planes3_sorted/plane3_245.jpg 3 619 68 144 51 682 138 126 62 958 64 63 37
+Images/planes3_sorted/plane3_246.jpg 1 785 68 149 46
+Images/planes3_sorted/plane3_247.jpg 1 669 68 144 42
+Images/planes3_sorted/plane3_248.jpg 1 28 115 95 41
+Images/planes3_sorted/plane3_249.jpg 1 867 47 123 46
+Images/planes3_sorted/plane3_25.jpg 2 681 144 143 62 848 66 154 59
+Images/planes3_sorted/plane3_250.jpg 1 874 46 117 34
+Images/planes3_sorted/plane3_251.jpg 1 815 60 113 35
+Images/planes3_sorted/plane3_252.jpg 1 675 153 147 73
+Images/planes3_sorted/plane3_253.jpg 2 783 145 102 42 961 79 63 36
+Images/planes3_sorted/plane3_254.jpg 2 945 66 79 34 675 139 145 60
+Images/planes3_sorted/plane3_255.jpg 2 785 144 101 43 963 80 62 36
+Images/planes3_sorted/plane3_256.jpg 1 684 153 140 75
+Images/planes3_sorted/plane3_257.jpg 1 609 73 158 71
+Images/planes3_sorted/plane3_258.jpg 1 612 64 157 72
+Images/planes3_sorted/plane3_259.jpg 1 790 47 127 42
+Images/planes3_sorted/plane3_26.jpg 2 675 142 146 63 840 65 160 63
+Images/planes3_sorted/plane3_260.jpg 1 281 92 157 52
+Images/planes3_sorted/plane3_261.jpg 1 148 244 82 31
+Images/planes3_sorted/plane3_262.jpg 5 489 89 198 57 590 51 105 34 688 138 134 66 953 60 69 43 981 37 39 32
+Images/planes3_sorted/plane3_263.jpg 2 947 68 78 36 845 67 157 57
+Images/planes3_sorted/plane3_264.jpg 1 845 64 156 61
+Images/planes3_sorted/plane3_265.jpg 2 680 138 143 72 843 66 158 61
+Images/planes3_sorted/plane3_266.jpg 1 827 61 151 46
+Images/planes3_sorted/plane3_267.jpg 1 806 46 130 46
+Images/planes3_sorted/plane3_268.jpg 1 491 76 149 54
+Images/planes3_sorted/plane3_269.jpg 1 528 89 185 66
+Images/planes3_sorted/plane3_27.jpg 3 707 150 81 50 750 88 228 72 950 65 73 37
+Images/planes3_sorted/plane3_270.jpg 2 415 91 144 37 911 43 102 33
+Images/planes3_sorted/plane3_271.jpg 1 760 81 38 18
+Images/planes3_sorted/plane3_272.jpg 1 678 154 146 72
+Images/planes3_sorted/plane3_273.jpg 2 784 125 88 41 844 61 157 66
+Images/planes3_sorted/plane3_274.jpg 2 781 123 87 38 843 64 156 61
+Images/planes3_sorted/plane3_275.jpg 3 945 64 78 39 787 126 85 39 667 141 158 59
+Images/planes3_sorted/plane3_276.jpg 1 867 64 61 27
+Images/planes3_sorted/plane3_277.jpg 1 672 147 153 79
+Images/planes3_sorted/plane3_278.jpg 1 531 65 129 63
+Images/planes3_sorted/plane3_279.jpg 1 598 73 183 68
+Images/planes3_sorted/plane3_28.jpg 2 845 61 156 60 752 84 226 66
+Images/planes3_sorted/plane3_280.jpg 1 573 68 158 64
+Images/planes3_sorted/plane3_281.jpg 1 847 59 154 43
+Images/planes3_sorted/plane3_282.jpg 1 494 88 200 67
+Images/planes3_sorted/plane3_283.jpg 2 672 135 150 70 847 66 154 61
+Images/planes3_sorted/plane3_284.jpg 1 841 63 157 67
+Images/planes3_sorted/plane3_285.jpg 1 738 69 181 72
+Images/planes3_sorted/plane3_286.jpg 2 677 135 145 63 848 64 153 63
+Images/planes3_sorted/plane3_287.jpg 2 847 66 153 60 683 137 138 68
+Images/planes3_sorted/plane3_288.jpg 2 707 150 101 52 950 65 74 38
+Images/planes3_sorted/plane3_289.jpg 3 946 65 80 40 752 82 221 83 701 152 109 55
+Images/planes3_sorted/plane3_29.jpg 1 524 83 191 66
+Images/planes3_sorted/plane3_290.jpg 1 751 66 184 69
+Images/planes3_sorted/plane3_291.jpg 4 379 94 141 32 663 129 155 67 838 55 162 60 955 38 68 50
+Images/planes3_sorted/plane3_292.jpg 1 0 285 64 48
+Images/planes3_sorted/plane3_293.jpg 3 662 135 158 59 957 39 67 49 845 54 156 63
+Images/planes3_sorted/plane3_294.jpg 1 637 81 158 43
+Images/planes3_sorted/plane3_295.jpg 1 559 82 173 64
+Images/planes3_sorted/plane3_296.jpg 1 554 80 202 72
+Images/planes3_sorted/plane3_297.jpg 3 750 84 231 80 948 59 79 45 702 150 111 51
+Images/planes3_sorted/plane3_298.jpg 2 701 150 110 58 948 60 76 43
+Images/planes3_sorted/plane3_299.jpg 2 836 60 164 65 676 133 147 69
+Images/planes3_sorted/plane3_3.jpg 3 949 66 78 37 754 85 228 81 708 149 103 54
+Images/planes3_sorted/plane3_30.jpg 1 353 123 150 45
+Images/planes3_sorted/plane3_300.jpg 2 688 139 133 55 845 65 157 67
+Images/planes3_sorted/plane3_301.jpg 1 872 53 112 37
+Images/planes3_sorted/plane3_302.jpg 2 845 64 159 62 679 140 144 63
+Images/planes3_sorted/plane3_303.jpg 1 795 64 149 48
+Images/planes3_sorted/plane3_304.jpg 1 777 65 140 40
+Images/planes3_sorted/plane3_305.jpg 2 845 65 155 58 681 139 138 57
+Images/planes3_sorted/plane3_306.jpg 2 706 150 107 50 952 63 70 37
+Images/planes3_sorted/plane3_307.jpg 1 647 68 175 70
+Images/planes3_sorted/plane3_308.jpg 1 595 70 185 66
+Images/planes3_sorted/plane3_309.jpg 1 670 65 145 44
+Images/planes3_sorted/plane3_31.jpg 1 699 67 169 47
+Images/planes3_sorted/plane3_310.jpg 1 871 57 113 34
+Images/planes3_sorted/plane3_311.jpg 1 646 71 179 73
+Images/planes3_sorted/plane3_312.jpg 1 640 77 155 41
+Images/planes3_sorted/plane3_313.jpg 1 512 75 132 53
+Images/planes3_sorted/plane3_314.jpg 1 383 71 92 34
+Images/planes3_sorted/plane3_315.jpg 1 739 73 97 38
+Images/planes3_sorted/plane3_316.jpg 2 706 154 105 55 945 63 81 40
+Images/planes3_sorted/plane3_317.jpg 2 842 61 161 66 687 139 135 55
+Images/planes3_sorted/plane3_318.jpg 1 617 83 155 40
+Images/planes3_sorted/plane3_319.jpg 1 745 70 157 41
+Images/planes3_sorted/plane3_32.jpg 1 830 60 149 45
+Images/planes3_sorted/plane3_320.jpg 2 843 63 160 65 679 139 143 63
+Images/planes3_sorted/plane3_321.jpg 1 842 60 157 61
+Images/planes3_sorted/plane3_322.jpg 1 742 39 82 28
+Images/planes3_sorted/plane3_323.jpg 2 684 139 139 56 847 67 154 55
+Images/planes3_sorted/plane3_324.jpg 1 500 82 151 38
+Images/planes3_sorted/plane3_325.jpg 2 678 141 147 66 842 65 159 62
+Images/planes3_sorted/plane3_326.jpg 2 703 149 108 58 953 66 73 35
+Images/planes3_sorted/plane3_327.jpg 1 686 73 146 39
+Images/planes3_sorted/plane3_328.jpg 1 667 67 149 43
+Images/planes3_sorted/plane3_329.jpg 1 236 216 72 38
+Images/planes3_sorted/plane3_33.jpg 1 787 67 152 46
+Images/planes3_sorted/plane3_330.jpg 1 503 86 190 64
+Images/planes3_sorted/plane3_331.jpg 1 678 69 178 73
+Images/planes3_sorted/plane3_332.jpg 2 709 151 97 49 955 64 71 39
+Images/planes3_sorted/plane3_333.jpg 1 564 71 41 17
+Images/planes3_sorted/plane3_334.jpg 1 737 68 187 71
+Images/planes3_sorted/plane3_335.jpg 2 680 144 144 62 846 64 154 61
+Images/planes3_sorted/plane3_336.jpg 2 690 140 132 54 846 65 157 59
+Images/planes3_sorted/plane3_337.jpg 2 3 182 59 34 846 64 155 59
+Images/planes3_sorted/plane3_338.jpg 3 400 164 103 29 688 144 133 48 849 69 151 54
+Images/planes3_sorted/plane3_339.jpg 1 667 67 149 40
+Images/planes3_sorted/plane3_34.jpg 3 672 130 147 61 846 52 152 60 958 41 68 47
+Images/planes3_sorted/plane3_340.jpg 2 847 64 155 58 753 86 228 71
+Images/planes3_sorted/plane3_341.jpg 3 118 235 115 43 307 69 104 47 951 65 74 39
+Images/planes3_sorted/plane3_342.jpg 1 613 84 161 36
+Images/planes3_sorted/plane3_343.jpg 1 212 120 153 34
+Images/planes3_sorted/plane3_344.jpg 1 499 93 187 63
+Images/planes3_sorted/plane3_345.jpg 2 712 98 111 34 783 144 83 36
+Images/planes3_sorted/plane3_346.jpg 1 561 71 134 56
+Images/planes3_sorted/plane3_347.jpg 1 808 76 60 20
+Images/planes3_sorted/plane3_348.jpg 1 599 72 153 38
+Images/planes3_sorted/plane3_349.jpg 2 850 80 151 58 950 75 73 41
+Images/planes3_sorted/plane3_35.jpg 2 712 95 115 40 783 143 83 38
+Images/planes3_sorted/plane3_350.jpg 1 758 40 80 29
+Images/planes3_sorted/plane3_351.jpg 1 667 74 176 66
+Images/planes3_sorted/plane3_352.jpg 1 37 146 151 32
+Images/planes3_sorted/plane3_353.jpg 1 385 97 146 36
+Images/planes3_sorted/plane3_354.jpg 2 849 64 153 62 749 87 233 67
+Images/planes3_sorted/plane3_355.jpg 1 824 51 124 35
+Images/planes3_sorted/plane3_356.jpg 2 845 65 156 61 683 141 137 57
+Images/planes3_sorted/plane3_36.jpg 1 722 69 140 39
+Images/planes3_sorted/plane3_37.jpg 2 754 90 109 38 784 142 80 40
+Images/planes3_sorted/plane3_38.jpg 3 684 126 132 62 847 57 152 56 962 40 60 48
+Images/planes3_sorted/plane3_39.jpg 1 737 70 184 68
+Images/planes3_sorted/plane3_4.jpg 1 713 89 126 43
+Images/planes3_sorted/plane3_40.jpg 1 754 69 117 39
+Images/planes3_sorted/plane3_41.jpg 1 441 83 158 50
+Images/planes3_sorted/plane3_42.jpg 1 672 70 146 39
+Images/planes3_sorted/plane3_43.jpg 1 648 99 57 24
+Images/planes3_sorted/plane3_44.jpg 1 751 58 128 35
+Images/planes3_sorted/plane3_45.jpg 3 941 24 83 30 847 64 154 58 750 86 225 69
+Images/planes3_sorted/plane3_46.jpg 3 947 63 76 38 752 81 229 74 703 152 88 46
+Images/planes3_sorted/plane3_47.jpg 2 687 143 136 59 842 66 157 58
+Images/planes3_sorted/plane3_48.jpg 2 846 67 153 57 679 137 144 60
+Images/planes3_sorted/plane3_49.jpg 2 683 138 140 58 848 64 154 59
+Images/planes3_sorted/plane3_5.jpg 1 746 61 184 71
+Images/planes3_sorted/plane3_50.jpg 2 679 141 142 62 843 62 158 62
+Images/planes3_sorted/plane3_51.jpg 2 847 68 155 56 679 137 141 62
+Images/planes3_sorted/plane3_52.jpg 2 687 134 135 66 844 60 158 63
+Images/planes3_sorted/plane3_53.jpg 3 750 83 237 80 948 63 74 39 706 147 83 53
+Images/planes3_sorted/plane3_54.jpg 4 699 149 110 51 758 91 227 68 654 68 151 44 850 64 155 58
+Images/planes3_sorted/plane3_55.jpg 1 496 84 199 67
+Images/planes3_sorted/plane3_56.jpg 2 672 126 145 66 958 40 68 50
+Images/planes3_sorted/plane3_57.jpg 1 679 72 141 44
+Images/planes3_sorted/plane3_58.jpg 1 754 67 190 71
+Images/planes3_sorted/plane3_59.jpg 1 766 66 151 47
+Images/planes3_sorted/plane3_6.jpg 1 778 61 135 44
+Images/planes3_sorted/plane3_60.jpg 2 952 63 75 39 503 89 190 57
+Images/planes3_sorted/plane3_61.jpg 1 727 69 137 39
+Images/planes3_sorted/plane3_62.jpg 3 676 123 143 72 841 57 159 56 959 43 64 45
+Images/planes3_sorted/plane3_63.jpg 1 827 37 84 27
+Images/planes3_sorted/plane3_64.jpg 2 783 144 83 35 980 89 46 28
+Images/planes3_sorted/plane3_65.jpg 1 217 119 150 36
+Images/planes3_sorted/plane3_66.jpg 1 944 40 36 15
+Images/planes3_sorted/plane3_67.jpg 2 783 139 82 40 985 87 39 29
+Images/planes3_sorted/plane3_68.jpg 3 681 128 139 63 849 55 150 55 959 41 66 47
+Images/planes3_sorted/plane3_69.jpg 1 726 66 131 38
+Images/planes3_sorted/plane3_7.jpg 1 700 72 148 37
+Images/planes3_sorted/plane3_70.jpg 1 669 74 172 62
+Images/planes3_sorted/plane3_71.jpg 1 456 80 150 50
+Images/planes3_sorted/plane3_72.jpg 1 650 73 151 42
+Images/planes3_sorted/plane3_73.jpg 2 673 132 143 60 956 43 68 47
+Images/planes3_sorted/plane3_74.jpg 1 614 84 158 39
+Images/planes3_sorted/plane3_75.jpg 4 708 151 103 47 756 87 221 71 840 63 162 63 942 67 81 34
+Images/planes3_sorted/plane3_76.jpg 3 949 65 77 36 756 83 225 79 704 150 86 55
+Images/planes3_sorted/plane3_77.jpg 2 683 143 137 59 847 66 156 65
+Images/planes3_sorted/plane3_78.jpg 2 846 64 156 66 685 138 134 62
+Images/planes3_sorted/plane3_79.jpg 2 690 135 132 61 850 65 150 62
+Images/planes3_sorted/plane3_8.jpg 1 607 76 161 67
+Images/planes3_sorted/plane3_80.jpg 2 685 134 137 67 846 66 155 58
+Images/planes3_sorted/plane3_81.jpg 2 848 65 153 59 684 143 138 57
+Images/planes3_sorted/plane3_82.jpg 2 711 150 103 49 947 64 78 38
+Images/planes3_sorted/plane3_83.jpg 3 949 65 74 36 754 86 225 68 709 147 102 57
+Images/planes3_sorted/plane3_84.jpg 3 709 149 78 47 754 83 225 79 952 64 72 38
+Images/planes3_sorted/plane3_85.jpg 1 679 74 136 43
+Images/planes3_sorted/plane3_86.jpg 1 785 55 118 44
+Images/planes3_sorted/plane3_87.jpg 2 544 82 188 61 949 64 78 37
+Images/planes3_sorted/plane3_88.jpg 2 975 83 51 37 787 142 82 36
+Images/planes3_sorted/plane3_89.jpg 3 670 123 149 71 845 53 155 62 957 40 68 48
+Images/planes3_sorted/plane3_9.jpg 2 782 142 85 38 982 89 42 27
+Images/planes3_sorted/plane3_90.jpg 1 694 77 155 38
+Images/planes3_sorted/plane3_91.jpg 1 843 58 156 47
+Images/planes3_sorted/plane3_92.jpg 3 675 128 145 60 845 55 154 58 958 38 67 49
+Images/planes3_sorted/plane3_93.jpg 2 786 144 96 46 979 87 44 29
+Images/planes3_sorted/plane3_94.jpg 1 41 141 147 39
+Images/planes3_sorted/plane3_95.jpg 1 812 62 114 32
+Images/planes3_sorted/plane3_96.jpg 1 845 48 118 36
+Images/planes3_sorted/plane3_97.jpg 1 174 110 46 18
+Images/planes3_sorted/plane3_98.jpg 1 605 74 144 36
+Images/planes3_sorted/plane3_99.jpg 2 685 127 133 67 960 42 63 48
