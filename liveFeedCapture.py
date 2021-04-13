@@ -3,7 +3,7 @@
 ##################################
 
 import json
-import urllib.request
+from urllib import request, error
 
 
 class LiveFeedCapture:
@@ -16,13 +16,17 @@ class LiveFeedCapture:
     def set_stream_id(self):
 
         url = "https://player.ipcamlive.com/player/getcamerastreamstate.php?alias=5b0f2c342aa3a&targetdomain=canair.captiveye002.com"
-
-        phpReturn = urllib.request.urlopen(url)
-        raw_data = phpReturn.read()
-        encoding = phpReturn.info().get_content_charset('utf8')  # JSON default
-        data = json.loads(raw_data.decode(encoding))
-        stream_id = data["details"]["streamid"]
-        self.stream_id = stream_id
+        try:
+            phpReturn = request.urlopen(url)
+        except error.URLError as exception:
+            print("No Internet Connection (probably..)")
+            exit(1)
+        else:
+            raw_data = phpReturn.read()
+            encoding = phpReturn.info().get_content_charset('utf8')  # JSON default
+            data = json.loads(raw_data.decode(encoding))
+            stream_id = data["details"]["streamid"]
+            self.stream_id = stream_id
 
     def get_stream_url(self):
         stream_url = self.base_url + self.stream_id + "/stream.m3u8"
