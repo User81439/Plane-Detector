@@ -7,7 +7,7 @@ class PlaneViewer:
     def __init__(self):
         pass
 
-    def plane_detector(self, detection_method, use_classifer=False, enable_keyboard=False):
+    def plane_detector(self, detection_method, use_classifer=False, enable_capture=False):
         running = True
         source_input = detection_method
 
@@ -21,18 +21,11 @@ class PlaneViewer:
         elif source_input == "img":
             vid = cv2.VideoCapture('Images/planes3_sorted/plane3_0.jpg')
 
-        elif source_input == "ts":
-            lc = LiveFeedCapture()
-            stream_url = lc.get_stream_url()
         else:
             raise Exception("Bad source input")
 
         while running:
             # print("starting")
-
-            if source_input == "ts":
-                ts_url = lc.get_ts_file(stream_url)
-                vid = cv2.VideoCapture(ts_url)
 
             returned_image, image = vid.read()
             # print("read vid t or f: ", returned_image)

@@ -7,9 +7,9 @@ def main():  # take code out of definition for main?
     # run_capture()
     manual_img_grabber()
     #
-    # detection_method = "ts"
     # detection_method = "img"
     # detection_method = "live"
+    # enable_img_capture = False
     # plane_detector(detection_method)
 
     # #  be careful when running, only do when needed
