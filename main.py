@@ -3,11 +3,11 @@ from PlaneViewer import PlaneViewer
 from liveFeedCapture import LiveFeedCapture
 
 
-def main():  # take code out of definition for main?
+def main():
 
     # media_type = "static"
     media_type = "live"
-    enable_img_capture = False
+    enable_img_capture = True
 
     if media_type == "live":
         lc = LiveFeedCapture()
@@ -15,6 +15,7 @@ def main():  # take code out of definition for main?
 
     elif media_type == "static":
         source = 'Images/planes3_sorted/plane3_0.jpg'
+        enable_img_capture = False
 
     else:
         raise Exception("dun did somn wrong")
@@ -25,11 +26,6 @@ def main():  # take code out of definition for main?
     # #  be careful when running, only do when needed
     # utils.rename_files()
     # utils.generate_negative_description_file()
-
-#
-# def plane_detector():
-#     detector = PlaneViewer()
-#     detector.plane_detector()
 
 
 if __name__ == '__main__':

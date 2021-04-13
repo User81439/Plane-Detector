@@ -2,9 +2,6 @@
 # Live feed read / capture class #
 ##################################
 
-import cv2
-import m3u8
-from time import sleep, time
 import json
 import urllib.request
 
@@ -30,56 +27,3 @@ class LiveFeedCapture:
     def get_stream_url(self):
         stream_url = self.base_url + self.stream_id + "/stream.m3u8"
         return stream_url
-
-    def get_ts_file(self, stream_url):
-        playlist = m3u8.load(stream_url)
-        tsFiles = playlist.files
-        tsIsolated = "/" + tsFiles[4]
-        ts_url = self.base_url + self.stream_id + tsIsolated
-        return ts_url
-
-    ##  OLD
-    def get_images(self, runner, images, wait, SID):
-
-        running = runner
-        num_img = images
-        wait_between = wait
-        stream_id = SID
-
-        while running:
-
-            # print(fullStreamURL)
-
-            for i in range(num_img):
-
-                loop_time = time()
-
-                base_url = "https://s8.ipcamlive.com/streams/"
-                m3u8_url = "/stream.m3u8"
-                full_stream_url = base_url + stream_id + m3u8_url
-
-                playlist = m3u8.load(full_stream_url)  # URL with playlist file
-                tsFiles = playlist.files  # gets .ts files from playlist
-                tsIsolated = "/" + tsFiles[4]  # gets the first .ts file from array
-                tsURL = base_url + stream_id + tsIsolated  # URL with ts video file
-
-                capture = cv2.VideoCapture(tsURL)  # reads .ts file on URL
-
-                returned_image, image = capture.read()  # captures img | i dont know what 'return_value' does but program breaks without
-                # print(returned_image) #debug
-                # print(image) #debug
-                if returned_image:  # catches error
-                    cv2.imwrite('planes/{}.jpg'.format(loop_time), image)
-
-                    capture.release()
-
-                    sleep(wait_between)
-                    print("sleep done")
-
-                if not returned_image:
-                    i = i - 1
-                    print("retrying")
-                    continue
-
-            print("Done!")
-            running = False
