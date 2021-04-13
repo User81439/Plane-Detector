@@ -1,28 +1,28 @@
 import cv2
 from time import time, sleep
-from liveFeedCapture import LiveFeedCapture
 
 
 class PlaneViewer:
-    def __init__(self):
-        pass
+    def __init__(self, source):
+        self.source = source
 
-    def plane_detector(self, detection_method, use_classifer=False, enable_capture=False):
+    def plane_detector(self, enable_img_capture):
         running = True
-        source_input = detection_method
 
         cascade_plane = cv2.CascadeClassifier('cascade3/cascade.xml')  # loads plane detector model
 
-        if source_input == "live":
-            lc = LiveFeedCapture()
-            stream_url = lc.get_stream_url()
-            vid = cv2.VideoCapture(stream_url)
+        vid = cv2.VideoCapture(self.source)
 
-        elif source_input == "img":
-            vid = cv2.VideoCapture('Images/planes3_sorted/plane3_0.jpg')
 
-        else:
-            raise Exception("Bad source input")
+        # if source_input == "live":
+        #     vid = cv2.VideoCapture(source)
+        #
+        # elif source_input == "static":
+        #     # vid = cv2.VideoCapture('Images/planes3_sorted/plane3_0.jpg')
+        #     vid = cv2.VideoCapture(source)
+
+        # else:
+        #     raise Exception("Bad source input")
 
         while running:
             # print("starting")
@@ -46,6 +46,8 @@ class PlaneViewer:
                     print("quitting")
                     running = False
                     break
+
+
 
             if not returned_image:
                 vid.release()

@@ -1,32 +1,35 @@
 import utils
 from PlaneViewer import PlaneViewer
+from liveFeedCapture import LiveFeedCapture
 
 
 def main():  # take code out of definition for main?
 
-    # run_capture()
-    manual_img_grabber()
-    #
-    # detection_method = "img"
-    # detection_method = "live"
-    # enable_img_capture = False
-    # plane_detector(detection_method)
+    # media_type = "static"
+    media_type = "live"
+    enable_img_capture = False
+
+    if media_type == "live":
+        lc = LiveFeedCapture()
+        source = lc.get_stream_url()
+
+    elif media_type == "static":
+        source = 'Images/planes3_sorted/plane3_0.jpg'
+
+    else:
+        raise Exception("dun did somn wrong")
+
+    pv = PlaneViewer(source)
+    pv.plane_detector(enable_img_capture)
 
     # #  be careful when running, only do when needed
     # utils.rename_files()
     # utils.generate_negative_description_file()
 
-
-def manual_img_grabber():
-    grabber = PlaneViewer()
-    status = True
-    while True:
-        status = grabber.img_capture()
-
-
-def plane_detector(detection_method):
-    detector = PlaneViewer()
-    detector.plane_detector(detection_method)
+#
+# def plane_detector():
+#     detector = PlaneViewer()
+#     detector.plane_detector()
 
 
 if __name__ == '__main__':
