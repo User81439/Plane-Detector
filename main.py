@@ -1,29 +1,31 @@
 import utils
 from PlaneViewer import PlaneViewer
-from liveFeedCapture import LiveFeedCapture
+from URLbuilder import URLbuilder
 
 
 def main():
 
-    # media_type = "static"
-    media_type = "live"
-    enable_img_capture = True
+    media_type = "static"
+    # media_type = "live"
+    classifier_version = "cascade4"  # cascade[-4]
+    enable_img_capture = False
+    demo_mode = True
 
     if media_type == "live":
-        lc = LiveFeedCapture()
+        lc = URLbuilder()
         source = lc.get_stream_url()
 
     elif media_type == "static":
-        source = 'Images/planes3_sorted/plane3_0.jpg'
+        source = 'Images/planes4_sorted/plane_0.jpg'
         enable_img_capture = False
 
     else:
-        raise Exception("dun did somn wrong")
+        raise Exception("invalid media type. try; static or live")
 
     pv = PlaneViewer(source)
-    pv.plane_detector(enable_img_capture)
+    pv.plane_detector(enable_img_capture, classifier_version, demo_mode)
 
-    # #  be careful when running, only do when needed
+    #  be careful when running, only do when needed
     # utils.rename_files()
     # utils.generate_negative_description_file()
 

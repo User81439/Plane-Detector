@@ -3,25 +3,14 @@
 /usr/local/bin/
 
 create pos file:
-/usr/local/bin/opencv_annotation --annotations=pos3.txt --images=Images/planes3_sorted
+/usr/local/bin/opencv_annotation --annotations=pos4.txt --images=Images/planes4_sorted
 
 create samples:
-/usr/local/bin/opencv_createsamples -info pos3.txt -w 24 -h 24 -num 1000 -vec pos3.vec
-
-Need more images to train; 100 pos 200 neg ?
+/usr/local/bin/opencv_createsamples -info pos4.txt -w 24 -h 24 -num 986 -vec pos4.vec
 
 cascade training
-/usr/local/bin/opencv_traincascade -data cascade3 -vec pos3.vec -bg neg.txt -w 20 -h 20 -numPos 600 -numNeg 200 -numStages 8 -maxFalseAlarmRate 0.3 -minHitRate 0.999
-/usr/local/bin/opencv_traincascade -data cascade3 -vec pos3.vec -bg neg.txt -w 24 -h 24 -numPos 600 -numNeg 200
+/usr/local/bin/opencv_traincascade -data cascade4 -vec pos4.vec -bg neg.txt -w 24 -h 24 -numPos 986 -numNeg 686 -numStages 8 -maxFalseAlarmRate 0.3 -minHitRate 0.999
 
-try:
-/usr/local/bin/opencv_traincascade -data cascade3 -vec pos3.vec -bg neg.txt -w 24 -h 24 -numPos 500 -numNeg 500 -numStages 12 -maxFalseAlarmRate 0.3 -minHitRate 0.999
-
-
-/usr/local/bin/opencv_traincascade -data cascade3 -vec pos3.vec -bg neg.txt -w 24 -h 24 -numPos 500 -numNeg 500 -numStages 21
-
-    keep adding stages to see if this will work, can only do max 20?
-    retrain using the new neg.txt file, has 277, over 77..
-
+4 is 60%+ larger clean
 3 is all images
 2 is clean images

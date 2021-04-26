@@ -1,0 +1,671 @@
+Images/planes4_sorted/plane_0.jpg 1 704 148 107 65
+Images/planes4_sorted/plane_1.jpg 1 703 149 112 64
+Images/planes4_sorted/plane_10.jpg 1 713 79 184 67
+Images/planes4_sorted/plane_100.jpg 1 752 56 129 36
+Images/planes4_sorted/plane_101.jpg 1 850 67 151 62
+Images/planes4_sorted/plane_102.jpg 1 619 83 151 37
+Images/planes4_sorted/plane_103.jpg 1 665 74 153 38
+Images/planes4_sorted/plane_104.jpg 1 500 88 194 60
+Images/planes4_sorted/plane_105.jpg 1 506 84 142 35
+Images/planes4_sorted/plane_106.jpg 1 526 82 190 63
+Images/planes4_sorted/plane_107.jpg 1 455 82 153 50
+Images/planes4_sorted/plane_108.jpg 1 605 79 174 59
+Images/planes4_sorted/plane_109.jpg 3 808 80 136 39 755 98 196 74 706 164 82 50
+Images/planes4_sorted/plane_11.jpg 1 773 65 137 39
+Images/planes4_sorted/plane_110.jpg 2 687 139 137 68 848 66 151 62
+Images/planes4_sorted/plane_111.jpg 1 737 70 183 68
+Images/planes4_sorted/plane_112.jpg 1 737 70 186 67
+Images/planes4_sorted/plane_113.jpg 1 89 392 393 204
+Images/planes4_sorted/plane_114.jpg 1 96 399 387 204
+Images/planes4_sorted/plane_115.jpg 1 656 62 182 64
+Images/planes4_sorted/plane_116.jpg 2 844 53 154 72 15 379 361 158
+Images/planes4_sorted/plane_117.jpg 1 748 63 140 39
+Images/planes4_sorted/plane_118.jpg 1 835 56 140 43
+Images/planes4_sorted/plane_119.jpg 1 585 80 160 64
+Images/planes4_sorted/plane_12.jpg 1 763 72 187 71
+Images/planes4_sorted/plane_120.jpg 1 501 89 191 63
+Images/planes4_sorted/plane_121.jpg 1 850 54 149 62
+Images/planes4_sorted/plane_122.jpg 3 578 94 139 39 710 165 103 53 754 100 199 70
+Images/planes4_sorted/plane_123.jpg 1 764 75 182 61
+Images/planes4_sorted/plane_124.jpg 1 643 40 84 32
+Images/planes4_sorted/plane_125.jpg 1 765 67 148 42
+Images/planes4_sorted/plane_126.jpg 1 471 69 100 39
+Images/planes4_sorted/plane_127.jpg 1 731 78 183 65
+Images/planes4_sorted/plane_128.jpg 1 566 80 127 54
+Images/planes4_sorted/plane_129.jpg 2 598 110 233 71 716 167 73 43
+Images/planes4_sorted/plane_13.jpg 1 105 101 93 38
+Images/planes4_sorted/plane_130.jpg 3 591 66 88 34 755 101 197 62 706 165 80 44
+Images/planes4_sorted/plane_131.jpg 2 683 146 137 56 849 67 151 55
+Images/planes4_sorted/plane_133.jpg 1 500 84 135 44
+Images/planes4_sorted/plane_134.jpg 2 750 99 203 69 703 164 90 48
+Images/planes4_sorted/plane_135.jpg 1 689 142 129 52
+Images/planes4_sorted/plane_136.jpg 1 587 78 124 58
+Images/planes4_sorted/plane_137.jpg 1 503 92 190 60
+Images/planes4_sorted/plane_138.jpg 3 257 102 89 39 751 101 200 61 713 168 79 40
+Images/planes4_sorted/plane_139.jpg 1 369 104 150 44
+Images/planes4_sorted/plane_14.jpg 3 512 89 146 48 756 101 196 60 706 166 84 41
+Images/planes4_sorted/plane_140.jpg 2 674 143 146 61 851 69 150 56
+Images/planes4_sorted/plane_141.jpg 1 436 153 128 46
+Images/planes4_sorted/plane_142.jpg 1 502 90 190 63
+Images/planes4_sorted/plane_143.jpg 1 561 85 184 61
+Images/planes4_sorted/plane_144.jpg 1 678 83 177 62
+Images/planes4_sorted/plane_145.jpg 1 785 142 77 34
+Images/planes4_sorted/plane_146.jpg 1 531 91 184 58
+Images/planes4_sorted/plane_147.jpg 2 687 141 138 61 848 65 152 58
+Images/planes4_sorted/plane_148.jpg 3 705 166 85 43 757 81 119 39 754 104 198 54
+Images/planes4_sorted/plane_149.jpg 1 634 84 176 64
+Images/planes4_sorted/plane_15.jpg 1 845 56 153 56
+Images/planes4_sorted/plane_150.jpg 1 638 65 164 63
+Images/planes4_sorted/plane_151.jpg 2 753 103 201 58 710 165 104 51
+Images/planes4_sorted/plane_152.jpg 1 725 64 134 41
+Images/planes4_sorted/plane_153.jpg 1 454 81 153 49
+Images/planes4_sorted/plane_154.jpg 1 616 84 156 36
+Images/planes4_sorted/plane_155.jpg 2 559 63 91 39 97 392 344 146
+Images/planes4_sorted/plane_156.jpg 3 736 53 79 31 756 101 196 67 710 166 82 41
+Images/planes4_sorted/plane_157.jpg 3 842 70 114 31 754 101 199 60 708 166 80 41
+Images/planes4_sorted/plane_158.jpg 3 322 127 142 27 749 101 201 63 706 163 82 43
+Images/planes4_sorted/plane_159.jpg 2 686 130 130 59 844 53 154 53
+Images/planes4_sorted/plane_16.jpg 3 625 90 138 32 758 105 194 53 711 167 76 38
+Images/planes4_sorted/plane_160.jpg 2 685 139 136 59 850 67 150 53
+Images/planes4_sorted/plane_161.jpg 1 848 67 150 52
+Images/planes4_sorted/plane_162.jpg 1 672 71 141 34
+Images/planes4_sorted/plane_163.jpg 1 850 81 149 53
+Images/planes4_sorted/plane_164.jpg 1 643 82 154 36
+Images/planes4_sorted/plane_165.jpg 1 609 65 146 63
+Images/planes4_sorted/plane_166.jpg 1 847 66 152 56
+Images/planes4_sorted/plane_167.jpg 2 848 68 151 56 686 143 136 51
+Images/planes4_sorted/plane_168.jpg 1 340 100 146 33
+Images/planes4_sorted/plane_169.jpg 1 523 64 130 53
+Images/planes4_sorted/plane_17.jpg 1 884 55 139 42
+Images/planes4_sorted/plane_170.jpg 2 753 102 206 66 558 170 94 42
+Images/planes4_sorted/plane_171.jpg 1 344 91 154 43
+Images/planes4_sorted/plane_172.jpg 1 121 129 147 33
+Images/planes4_sorted/plane_173.jpg 1 735 76 152 35
+Images/planes4_sorted/plane_174.jpg 2 318 86 99 46 99 398 350 141
+Images/planes4_sorted/plane_175.jpg 1 731 72 181 66
+Images/planes4_sorted/plane_176.jpg 1 679 76 137 42
+Images/planes4_sorted/plane_177.jpg 2 712 168 98 44 754 102 198 62
+Images/planes4_sorted/plane_178.jpg 1 783 56 119 40
+Images/planes4_sorted/plane_179.jpg 1 600 71 148 32
+Images/planes4_sorted/plane_18.jpg 3 473 105 142 35 755 101 198 60 709 165 83 42
+Images/planes4_sorted/plane_180.jpg 1 892 41 94 33
+Images/planes4_sorted/plane_181.jpg 2 334 139 233 70 708 162 81 43
+Images/planes4_sorted/plane_182.jpg 1 749 71 151 40
+Images/planes4_sorted/plane_183.jpg 1 609 76 159 63
+Images/planes4_sorted/plane_184.jpg 2 430 181 95 39 751 98 212 66
+Images/planes4_sorted/plane_185.jpg 1 572 68 155 59
+Images/planes4_sorted/plane_186.jpg 1 638 79 154 37
+Images/planes4_sorted/plane_187.jpg 2 405 130 226 67 711 165 79 41
+Images/planes4_sorted/plane_188.jpg 1 554 81 183 59
+Images/planes4_sorted/plane_189.jpg 1 706 58 143 41
+Images/planes4_sorted/plane_19.jpg 3 402 112 147 36 753 100 202 66 706 162 84 46
+Images/planes4_sorted/plane_190.jpg 1 97 394 387 207
+Images/planes4_sorted/plane_191.jpg 1 849 55 150 50
+Images/planes4_sorted/plane_192.jpg 1 685 152 137 62
+Images/planes4_sorted/plane_193.jpg 1 115 105 94 39
+Images/planes4_sorted/plane_194.jpg 1 824 51 93 32
+Images/planes4_sorted/plane_195.jpg 1 685 62 144 36
+Images/planes4_sorted/plane_196.jpg 2 844 53 154 60 100 365 372 168
+Images/planes4_sorted/plane_197.jpg 2 706 152 79 46 756 84 207 68
+Images/planes4_sorted/plane_198.jpg 1 705 161 106 54
+Images/planes4_sorted/plane_199.jpg 1 38 262 198 72
+Images/planes4_sorted/plane_2.jpg 1 427 59 93 37
+Images/planes4_sorted/plane_20.jpg 1 696 73 150 40
+Images/planes4_sorted/plane_200.jpg 1 841 47 123 36
+Images/planes4_sorted/plane_201.jpg 2 326 140 233 81 710 165 104 55
+Images/planes4_sorted/plane_202.jpg 1 604 72 149 37
+Images/planes4_sorted/plane_203.jpg 1 675 65 178 71
+Images/planes4_sorted/plane_204.jpg 1 654 65 154 39
+Images/planes4_sorted/plane_205.jpg 1 760 70 187 63
+Images/planes4_sorted/plane_206.jpg 3 532 98 146 36 756 103 196 61 707 164 85 43
+Images/planes4_sorted/plane_207.jpg 2 327 140 229 72 708 162 84 43
+Images/planes4_sorted/plane_208.jpg 1 144 135 158 46
+Images/planes4_sorted/plane_209.jpg 1 742 38 80 30
+Images/planes4_sorted/plane_21.jpg 2 751 98 200 76 715 163 80 42
+Images/planes4_sorted/plane_210.jpg 2 689 143 133 55 846 65 154 58
+Images/planes4_sorted/plane_211.jpg 1 415 75 157 46
+Images/planes4_sorted/plane_212.jpg 1 851 78 149 60
+Images/planes4_sorted/plane_213.jpg 1 849 55 151 56
+Images/planes4_sorted/plane_214.jpg 1 667 73 176 64
+Images/planes4_sorted/plane_215.jpg 2 848 65 152 63 682 140 140 62
+Images/planes4_sorted/plane_216.jpg 2 717 96 111 31 791 144 73 34
+Images/planes4_sorted/plane_217.jpg 1 505 85 190 59
+Images/planes4_sorted/plane_218.jpg 2 639 109 230 68 710 169 88 43
+Images/planes4_sorted/plane_219.jpg 1 618 81 153 40
+Images/planes4_sorted/plane_22.jpg 1 789 67 144 45
+Images/planes4_sorted/plane_220.jpg 1 848 67 153 62
+Images/planes4_sorted/plane_221.jpg 3 230 135 149 37 754 100 202 60 715 166 77 42
+Images/planes4_sorted/plane_222.jpg 2 384 97 142 34 900 44 100 35
+Images/planes4_sorted/plane_223.jpg 1 116 137 151 46
+Images/planes4_sorted/plane_224.jpg 2 327 140 233 69 711 161 79 53
+Images/planes4_sorted/plane_225.jpg 1 780 69 144 42
+Images/planes4_sorted/plane_226.jpg 1 340 88 159 43
+Images/planes4_sorted/plane_227.jpg 1 613 68 158 67
+Images/planes4_sorted/plane_228.jpg 1 824 51 121 45
+Images/planes4_sorted/plane_229.jpg 3 160 145 151 37 752 100 200 63 710 165 84 41
+Images/planes4_sorted/plane_23.jpg 1 692 156 127 67
+Images/planes4_sorted/plane_230.jpg 2 754 103 199 58 709 163 79 41
+Images/planes4_sorted/plane_231.jpg 1 466 72 149 51
+Images/planes4_sorted/plane_232.jpg 2 753 104 199 60 715 165 92 49
+Images/planes4_sorted/plane_234.jpg 1 243 350 389 139
+Images/planes4_sorted/plane_235.jpg 1 332 189 145 47
+Images/planes4_sorted/plane_236.jpg 1 95 399 349 139
+Images/planes4_sorted/plane_237.jpg 2 323 138 241 78 709 168 102 50
+Images/planes4_sorted/plane_238.jpg 2 786 123 81 36 847 63 154 56
+Images/planes4_sorted/plane_239.jpg 2 711 168 99 47 756 102 190 61
+Images/planes4_sorted/plane_24.jpg 2 756 100 195 60 708 167 80 42
+Images/planes4_sorted/plane_240.jpg 1 696 76 154 35
+Images/planes4_sorted/plane_241.jpg 3 452 106 141 39 755 99 197 60 709 164 81 43
+Images/planes4_sorted/plane_242.jpg 1 856 56 145 38
+Images/planes4_sorted/plane_243.jpg 1 657 67 150 33
+Images/planes4_sorted/plane_244.jpg 2 320 143 242 70 712 165 99 47
+Images/planes4_sorted/plane_245.jpg 1 743 58 137 38
+Images/planes4_sorted/plane_246.jpg 1 710 167 103 48
+Images/planes4_sorted/plane_247.jpg 1 100 397 341 142
+Images/planes4_sorted/plane_248.jpg 1 845 56 154 54
+Images/planes4_sorted/plane_249.jpg 1 719 57 125 39
+Images/planes4_sorted/plane_25.jpg 1 740 70 181 66
+Images/planes4_sorted/plane_250.jpg 1 689 154 136 73
+Images/planes4_sorted/plane_251.jpg 2 101 373 349 156 848 55 152 56
+Images/planes4_sorted/plane_252.jpg 1 805 63 104 40
+Images/planes4_sorted/plane_253.jpg 1 592 83 184 67
+Images/planes4_sorted/plane_254.jpg 1 2 270 189 105
+Images/planes4_sorted/plane_255.jpg 2 847 55 152 60 106 368 343 159
+Images/planes4_sorted/plane_256.jpg 3 143 151 147 29 755 99 213 71 703 165 88 45
+Images/planes4_sorted/plane_257.jpg 3 755 77 118 31 756 108 198 56 709 162 82 48
+Images/planes4_sorted/plane_258.jpg 1 659 62 152 41
+Images/planes4_sorted/plane_259.jpg 1 150 95 93 38
+Images/planes4_sorted/plane_26.jpg 2 329 143 231 64 707 163 107 57
+Images/planes4_sorted/plane_260.jpg 1 676 67 172 67
+Images/planes4_sorted/plane_261.jpg 1 727 72 184 66
+Images/planes4_sorted/plane_262.jpg 1 817 77 177 59
+Images/planes4_sorted/plane_263.jpg 1 166 112 165 44
+Images/planes4_sorted/plane_264.jpg 2 751 104 212 64 708 165 100 56
+Images/planes4_sorted/plane_265.jpg 1 692 157 130 57
+Images/planes4_sorted/plane_266.jpg 1 591 76 149 66
+Images/planes4_sorted/plane_267.jpg 1 27 131 150 45
+Images/planes4_sorted/plane_268.jpg 3 100 156 153 35 755 100 195 65 706 164 88 42
+Images/planes4_sorted/plane_269.jpg 2 326 145 236 61 695 160 96 48
+Images/planes4_sorted/plane_27.jpg 3 382 93 140 35 680 130 135 63 846 55 154 56
+Images/planes4_sorted/plane_270.jpg 1 731 70 139 36
+Images/planes4_sorted/plane_271.jpg 1 858 43 96 36
+Images/planes4_sorted/plane_272.jpg 1 497 90 197 62
+Images/planes4_sorted/plane_273.jpg 2 680 141 140 53 849 65 153 58
+Images/planes4_sorted/plane_274.jpg 3 744 80 129 40 753 106 200 59 706 162 85 44
+Images/planes4_sorted/plane_275.jpg 3 330 121 146 33 755 101 198 67 712 167 107 53
+Images/planes4_sorted/plane_276.jpg 1 759 41 81 29
+Images/planes4_sorted/plane_277.jpg 2 417 130 229 72 717 166 77 42
+Images/planes4_sorted/plane_278.jpg 1 91 395 354 145
+Images/planes4_sorted/plane_279.jpg 1 569 73 127 53
+Images/planes4_sorted/plane_28.jpg 3 605 91 132 34 755 101 200 58 709 163 79 42
+Images/planes4_sorted/plane_280.jpg 1 36 145 152 33
+Images/planes4_sorted/plane_281.jpg 2 323 139 236 73 711 165 77 41
+Images/planes4_sorted/plane_282.jpg 2 688 142 135 59 851 64 148 61
+Images/planes4_sorted/plane_283.jpg 1 828 36 80 27
+Images/planes4_sorted/plane_284.jpg 1 789 142 81 35
+Images/planes4_sorted/plane_285.jpg 1 98 398 343 140
+Images/planes4_sorted/plane_286.jpg 2 708 166 98 48 808 61 113 42
+Images/planes4_sorted/plane_287.jpg 1 791 144 74 33
+Images/planes4_sorted/plane_288.jpg 2 681 142 142 62 850 69 154 58
+Images/planes4_sorted/plane_289.jpg 1 734 74 154 37
+Images/planes4_sorted/plane_29.jpg 3 387 102 153 50 755 102 194 59 715 162 78 43
+Images/planes4_sorted/plane_290.jpg 1 461 77 151 56
+Images/planes4_sorted/plane_291.jpg 1 624 79 170 65
+Images/planes4_sorted/plane_292.jpg 1 761 71 186 63
+Images/planes4_sorted/plane_293.jpg 2 847 54 153 57 98 372 360 154
+Images/planes4_sorted/plane_294.jpg 4 656 48 159 52 742 102 203 45 850 58 149 54 686 125 132 58
+Images/planes4_sorted/plane_295.jpg 3 51 158 155 44 755 99 198 64 715 164 75 42
+Images/planes4_sorted/plane_296.jpg 2 333 197 114 50 750 103 205 59
+Images/planes4_sorted/plane_297.jpg 2 845 55 152 60 106 373 371 154
+Images/planes4_sorted/plane_298.jpg 2 443 121 233 74 712 164 80 46
+Images/planes4_sorted/plane_299.jpg 1 80 247 184 73
+Images/planes4_sorted/plane_3.jpg 1 772 59 185 67
+Images/planes4_sorted/plane_30.jpg 1 755 63 187 71
+Images/planes4_sorted/plane_300.jpg 3 848 65 152 56 788 124 83 39 689 142 129 59
+Images/planes4_sorted/plane_302.jpg 1 724 62 187 72
+Images/planes4_sorted/plane_303.jpg 2 753 101 206 68 504 169 118 52
+Images/planes4_sorted/plane_304.jpg 1 503 75 143 39
+Images/planes4_sorted/plane_305.jpg 2 719 69 113 49 709 164 101 51
+Images/planes4_sorted/plane_306.jpg 3 753 100 201 61 710 165 80 40 295 114 155 50
+Images/planes4_sorted/plane_307.jpg 2 336 136 277 88 706 163 107 54
+Images/planes4_sorted/plane_308.jpg 1 859 52 140 47
+Images/planes4_sorted/plane_309.jpg 3 582 75 147 49 757 98 201 59 705 169 93 41
+Images/planes4_sorted/plane_31.jpg 1 850 67 150 57
+Images/planes4_sorted/plane_310.jpg 2 327 139 235 78 710 163 107 59
+Images/planes4_sorted/plane_311.jpg 1 666 78 157 38
+Images/planes4_sorted/plane_312.jpg 1 694 154 128 67
+Images/planes4_sorted/plane_313.jpg 1 848 54 152 59
+Images/planes4_sorted/plane_314.jpg 1 856 54 140 43
+Images/planes4_sorted/plane_315.jpg 1 96 391 350 150
+Images/planes4_sorted/plane_316.jpg 1 526 80 128 57
+Images/planes4_sorted/plane_317.jpg 1 26 130 154 50
+Images/planes4_sorted/plane_318.jpg 3 177 145 154 36 755 100 203 70 715 168 83 49
+Images/planes4_sorted/plane_319.jpg 1 690 154 131 60
+Images/planes4_sorted/plane_32.jpg 3 631 88 127 33 758 97 193 69 705 168 117 54
+Images/planes4_sorted/plane_320.jpg 2 382 91 146 42 900 44 97 34
+Images/planes4_sorted/plane_321.jpg 1 739 48 135 53
+Images/planes4_sorted/plane_322.jpg 1 852 68 146 64
+Images/planes4_sorted/plane_323.jpg 1 574 81 148 55
+Images/planes4_sorted/plane_324.jpg 1 850 51 150 59
+Images/planes4_sorted/plane_325.jpg 2 757 100 194 59 716 166 120 59
+Images/planes4_sorted/plane_326.jpg 2 707 159 126 67 753 99 204 64
+Images/planes4_sorted/plane_327.jpg 2 689 127 130 60 848 54 152 59
+Images/planes4_sorted/plane_328.jpg 2 685 126 137 62 849 54 152 57
+Images/planes4_sorted/plane_329.jpg 2 104 365 371 166 846 54 152 60
+Images/planes4_sorted/plane_33.jpg 2 847 55 152 56 94 366 370 158
+Images/planes4_sorted/plane_330.jpg 2 749 99 218 64 713 165 80 42
+Images/planes4_sorted/plane_332.jpg 2 705 153 111 47 757 86 228 74
+Images/planes4_sorted/plane_333.jpg 1 442 85 150 41
+Images/planes4_sorted/plane_334.jpg 1 385 95 148 34
+Images/planes4_sorted/plane_335.jpg 1 656 80 149 37
+Images/planes4_sorted/plane_336.jpg 1 214 120 155 33
+Images/planes4_sorted/plane_337.jpg 1 917 45 99 25
+Images/planes4_sorted/plane_338.jpg 1 720 62 192 67
+Images/planes4_sorted/plane_339.jpg 1 679 124 142 72
+Images/planes4_sorted/plane_34.jpg 2 847 49 157 62 103 369 366 151
+Images/planes4_sorted/plane_340.jpg 2 707 166 86 40 740 102 212 61
+Images/planes4_sorted/plane_341.jpg 1 636 78 161 39
+Images/planes4_sorted/plane_342.jpg 1 691 159 131 58
+Images/planes4_sorted/plane_343.jpg 1 691 144 133 54
+Images/planes4_sorted/plane_344.jpg 1 102 405 381 189
+Images/planes4_sorted/plane_345.jpg 2 688 140 134 60 853 66 148 56
+Images/planes4_sorted/plane_346.jpg 3 811 74 116 34 753 99 206 62 716 166 77 42
+Images/planes4_sorted/plane_347.jpg 1 666 66 145 37
+Images/planes4_sorted/plane_348.jpg 1 671 65 147 43
+Images/planes4_sorted/plane_349.jpg 1 739 59 130 39
+Images/planes4_sorted/plane_35.jpg 1 795 146 91 41
+Images/planes4_sorted/plane_350.jpg 1 664 69 147 37
+Images/planes4_sorted/plane_351.jpg 1 737 73 190 65
+Images/planes4_sorted/plane_352.jpg 1 789 75 181 65
+Images/planes4_sorted/plane_353.jpg 1 753 102 210 64
+Images/planes4_sorted/plane_354.jpg 3 754 101 201 66 712 165 78 40 345 121 144 35
+Images/planes4_sorted/plane_355.jpg 1 706 84 176 64
+Images/planes4_sorted/plane_356.jpg 3 98 143 156 43 754 100 204 65 706 161 86 49
+Images/planes4_sorted/plane_357.jpg 1 851 54 140 44
+Images/planes4_sorted/plane_358.jpg 2 757 100 197 63 709 164 102 47
+Images/planes4_sorted/plane_359.jpg 1 592 79 111 61
+Images/planes4_sorted/plane_36.jpg 1 676 71 135 32
+Images/planes4_sorted/plane_360.jpg 1 607 74 158 70
+Images/planes4_sorted/plane_361.jpg 1 820 55 176 64
+Images/planes4_sorted/plane_362.jpg 1 783 55 188 66
+Images/planes4_sorted/plane_363.jpg 1 847 65 150 62
+Images/planes4_sorted/plane_364.jpg 1 307 85 103 45
+Images/planes4_sorted/plane_365.jpg 2 751 97 208 69 701 161 95 45
+Images/planes4_sorted/plane_366.jpg 1 99 99 95 37
+Images/planes4_sorted/plane_367.jpg 2 753 97 200 66 712 161 78 50
+Images/planes4_sorted/plane_368.jpg 2 327 141 230 70 707 166 114 57
+Images/planes4_sorted/plane_369.jpg 2 101 375 358 141 844 54 154 57
+Images/planes4_sorted/plane_37.jpg 1 779 65 130 39
+Images/planes4_sorted/plane_370.jpg 1 847 67 154 61
+Images/planes4_sorted/plane_371.jpg 1 706 78 161 35
+Images/planes4_sorted/plane_372.jpg 2 752 101 208 65 707 166 103 45
+Images/planes4_sorted/plane_373.jpg 2 323 142 240 77 710 166 113 53
+Images/planes4_sorted/plane_374.jpg 1 73 147 151 40
+Images/planes4_sorted/plane_375.jpg 2 327 142 237 72 713 166 104 49
+Images/planes4_sorted/plane_376.jpg 2 483 122 227 72 713 164 76 43
+Images/planes4_sorted/plane_377.jpg 1 86 390 403 214
+Images/planes4_sorted/plane_378.jpg 1 98 392 388 205
+Images/planes4_sorted/plane_379.jpg 1 699 65 179 62
+Images/planes4_sorted/plane_38.jpg 1 588 82 129 68
+Images/planes4_sorted/plane_380.jpg 1 740 72 100 35
+Images/planes4_sorted/plane_381.jpg 1 700 75 180 63
+Images/planes4_sorted/plane_382.jpg 1 753 68 184 70
+Images/planes4_sorted/plane_383.jpg 2 752 102 200 64 708 164 81 39
+Images/planes4_sorted/plane_384.jpg 1 492 86 144 52
+Images/planes4_sorted/plane_385.jpg 2 688 138 135 66 852 69 152 57
+Images/planes4_sorted/plane_386.jpg 1 503 82 147 37
+Images/planes4_sorted/plane_387.jpg 3 581 76 114 61 678 120 143 72 850 51 151 58
+Images/planes4_sorted/plane_388.jpg 1 650 73 155 43
+Images/planes4_sorted/plane_389.jpg 2 711 167 109 54 756 99 206 71
+Images/planes4_sorted/plane_39.jpg 3 882 65 114 41 751 96 203 69 708 165 124 56
+Images/planes4_sorted/plane_390.jpg 1 750 56 188 70
+Images/planes4_sorted/plane_391.jpg 2 752 99 202 68 708 162 86 42
+Images/planes4_sorted/plane_392.jpg 1 606 72 148 36
+Images/planes4_sorted/plane_393.jpg 3 776 78 139 40 751 98 201 64 712 162 77 44
+Images/planes4_sorted/plane_394.jpg 2 688 139 134 54 847 66 155 58
+Images/planes4_sorted/plane_395.jpg 1 619 82 153 35
+Images/planes4_sorted/plane_396.jpg 3 130 146 156 42 754 99 208 68 707 164 87 43
+Images/planes4_sorted/plane_397.jpg 3 405 111 144 42 751 101 196 64 708 162 82 44
+Images/planes4_sorted/plane_398.jpg 1 786 143 104 49
+Images/planes4_sorted/plane_399.jpg 1 675 135 146 59
+Images/planes4_sorted/plane_4.jpg 1 790 54 112 33
+Images/planes4_sorted/plane_40.jpg 3 779 71 126 38 751 103 204 62 712 164 84 44
+Images/planes4_sorted/plane_400.jpg 1 213 119 158 33
+Images/planes4_sorted/plane_401.jpg 1 732 59 191 70
+Images/planes4_sorted/plane_402.jpg 1 453 80 159 56
+Images/planes4_sorted/plane_403.jpg 1 767 67 152 47
+Images/planes4_sorted/plane_404.jpg 1 668 61 189 69
+Images/planes4_sorted/plane_405.jpg 2 849 55 149 59 100 362 385 172
+Images/planes4_sorted/plane_406.jpg 1 839 52 140 46
+Images/planes4_sorted/plane_407.jpg 1 455 70 158 50
+Images/planes4_sorted/plane_408.jpg 3 20 162 144 43 751 97 204 70 710 162 80 45
+Images/planes4_sorted/plane_409.jpg 2 708 167 99 53 758 103 198 68
+Images/planes4_sorted/plane_41.jpg 2 753 102 194 64 696 164 130 59
+Images/planes4_sorted/plane_410.jpg 2 324 140 272 83 711 160 102 55
+Images/planes4_sorted/plane_411.jpg 1 846 68 155 56
+Images/planes4_sorted/plane_412.jpg 3 574 83 101 32 789 122 80 43 688 138 134 51
+Images/planes4_sorted/plane_413.jpg 1 98 388 350 157
+Images/planes4_sorted/plane_414.jpg 1 218 111 158 37
+Images/planes4_sorted/plane_415.jpg 1 821 48 129 47
+Images/planes4_sorted/plane_416.jpg 1 163 112 169 43
+Images/planes4_sorted/plane_417.jpg 1 324 142 233 77
+Images/planes4_sorted/plane_418.jpg 1 573 79 156 67
+Images/planes4_sorted/plane_42.jpg 3 750 76 127 37 750 101 225 69 699 163 129 60
+Images/planes4_sorted/plane_420.jpg 3 483 89 158 54 751 98 203 67 705 165 86 41
+Images/planes4_sorted/plane_421.jpg 1 460 78 159 59
+Images/planes4_sorted/plane_422.jpg 1 779 73 184 65
+Images/planes4_sorted/plane_423.jpg 1 901 42 101 37
+Images/planes4_sorted/plane_424.jpg 1 679 63 177 67
+Images/planes4_sorted/plane_425.jpg 2 752 99 202 72 706 163 87 44
+Images/planes4_sorted/plane_426.jpg 1 537 80 190 59
+Images/planes4_sorted/plane_427.jpg 1 784 66 142 44
+Images/planes4_sorted/plane_428.jpg 2 752 99 209 72 712 169 76 41
+Images/planes4_sorted/plane_429.jpg 1 764 68 191 63
+Images/planes4_sorted/plane_43.jpg 2 751 104 207 67 275 213 120 59
+Images/planes4_sorted/plane_430.jpg 2 325 142 233 77 706 166 112 56
+Images/planes4_sorted/plane_431.jpg 1 541 77 144 32
+Images/planes4_sorted/plane_432.jpg 2 707 103 231 68 703 167 87 39
+Images/planes4_sorted/plane_433.jpg 1 918 54 107 27
+Images/planes4_sorted/plane_434.jpg 1 854 35 80 23
+Images/planes4_sorted/plane_435.jpg 2 754 102 209 62 705 167 96 46
+Images/planes4_sorted/plane_436.jpg 1 83 119 161 47
+Images/planes4_sorted/plane_437.jpg 1 31 140 150 37
+Images/planes4_sorted/plane_438.jpg 2 757 100 207 61 703 162 85 44
+Images/planes4_sorted/plane_439.jpg 2 98 365 363 152 844 50 149 67
+Images/planes4_sorted/plane_44.jpg 1 416 93 146 32
+Images/planes4_sorted/plane_440.jpg 2 372 80 110 45 96 391 362 149
+Images/planes4_sorted/plane_441.jpg 1 763 56 190 74
+Images/planes4_sorted/plane_442.jpg 3 265 134 142 31 757 98 200 70 705 163 89 40
+Images/planes4_sorted/plane_443.jpg 2 684 139 143 59 847 64 155 60
+Images/planes4_sorted/plane_444.jpg 1 586 78 138 64
+Images/planes4_sorted/plane_445.jpg 1 672 67 143 42
+Images/planes4_sorted/plane_446.jpg 1 852 52 149 65
+Images/planes4_sorted/plane_447.jpg 3 328 106 166 51 753 100 206 64 709 162 85 43
+Images/planes4_sorted/plane_448.jpg 2 325 139 234 76 712 163 83 42
+Images/planes4_sorted/plane_449.jpg 1 737 77 104 34
+Images/planes4_sorted/plane_45.jpg 1 872 43 121 47
+Images/planes4_sorted/plane_450.jpg 3 257 132 162 36 754 99 199 70 708 166 79 37
+Images/planes4_sorted/plane_451.jpg 1 167 96 99 41
+Images/planes4_sorted/plane_452.jpg 1 96 391 391 213
+Images/planes4_sorted/plane_453.jpg 1 386 95 148 36
+Images/planes4_sorted/plane_454.jpg 1 773 56 115 40
+Images/planes4_sorted/plane_455.jpg 1 918 41 102 29
+Images/planes4_sorted/plane_456.jpg 3 428 96 158 53 752 95 207 75 706 163 90 44
+Images/planes4_sorted/plane_457.jpg 2 749 100 219 71 712 165 80 43
+Images/planes4_sorted/plane_458.jpg 2 328 141 228 80 705 162 118 65
+Images/planes4_sorted/plane_459.jpg 2 309 71 102 43 116 233 116 47
+Images/planes4_sorted/plane_46.jpg 1 848 52 152 63
+Images/planes4_sorted/plane_460.jpg 1 761 72 183 65
+Images/planes4_sorted/plane_461.jpg 1 827 49 117 37
+Images/planes4_sorted/plane_462.jpg 1 668 74 177 69
+Images/planes4_sorted/plane_463.jpg 1 789 145 98 44
+Images/planes4_sorted/plane_464.jpg 2 713 164 101 50 756 71 132 42
+Images/planes4_sorted/plane_465.jpg 1 724 65 133 42
+Images/planes4_sorted/plane_466.jpg 3 688 82 127 33 754 104 198 60 712 167 104 52
+Images/planes4_sorted/plane_467.jpg 1 96 387 345 152
+Images/planes4_sorted/plane_468.jpg 3 704 161 85 47 756 102 218 69 786 78 137 42
+Images/planes4_sorted/plane_469.jpg 1 446 88 151 47
+Images/planes4_sorted/plane_47.jpg 1 800 75 187 60
+Images/planes4_sorted/plane_470.jpg 1 498 89 193 59
+Images/planes4_sorted/plane_471.jpg 3 202 137 161 36 753 100 211 66 703 161 95 48
+Images/planes4_sorted/plane_472.jpg 1 718 156 74 37
+Images/planes4_sorted/plane_473.jpg 1 847 47 118 40
+Images/planes4_sorted/plane_474.jpg 1 97 393 349 146
+Images/planes4_sorted/plane_475.jpg 1 751 68 187 69
+Images/planes4_sorted/plane_476.jpg 1 549 73 123 60
+Images/planes4_sorted/plane_477.jpg 1 718 70 185 69
+Images/planes4_sorted/plane_478.jpg 1 513 71 135 64
+Images/planes4_sorted/plane_479.jpg 1 849 52 148 60
+Images/planes4_sorted/plane_48.jpg 1 766 61 194 69
+Images/planes4_sorted/plane_480.jpg 1 653 83 185 65
+Images/planes4_sorted/plane_481.jpg 1 539 84 190 58
+Images/planes4_sorted/plane_482.jpg 1 85 122 161 52
+Images/planes4_sorted/plane_483.jpg 2 99 365 358 147 849 56 153 62
+Images/planes4_sorted/plane_484.jpg 1 250 387 402 166
+Images/planes4_sorted/plane_485.jpg 1 670 66 143 40
+Images/planes4_sorted/plane_486.jpg 2 846 55 154 61 106 366 338 162
+Images/planes4_sorted/plane_487.jpg 2 648 108 240 64 711 167 77 40
+Images/planes4_sorted/plane_488.jpg 1 282 199 152 55
+Images/planes4_sorted/plane_489.jpg 2 709 167 121 59 748 96 223 76
+Images/planes4_sorted/plane_49.jpg 2 849 70 155 66 675 145 149 61
+Images/planes4_sorted/plane_490.jpg 1 321 70 94 39
+Images/planes4_sorted/plane_491.jpg 1 655 65 160 41
+Images/planes4_sorted/plane_492.jpg 1 866 54 94 40
+Images/planes4_sorted/plane_493.jpg 1 670 69 145 39
+Images/planes4_sorted/plane_494.jpg 1 558 79 163 53
+Images/planes4_sorted/plane_495.jpg 2 110 109 101 55 97 388 349 152
+Images/planes4_sorted/plane_496.jpg 1 649 65 180 67
+Images/planes4_sorted/plane_497.jpg 1 735 71 133 40
+Images/planes4_sorted/plane_498.jpg 2 752 100 208 66 671 165 126 52
+Images/planes4_sorted/plane_499.jpg 1 849 66 148 56
+Images/planes4_sorted/plane_5.jpg 2 846 54 155 60 99 353 357 178
+Images/planes4_sorted/plane_50.jpg 1 872 37 121 54
+Images/planes4_sorted/plane_500.jpg 1 544 79 127 49
+Images/planes4_sorted/plane_501.jpg 1 200 121 160 49
+Images/planes4_sorted/plane_502.jpg 2 519 120 222 62 713 162 78 48
+Images/planes4_sorted/plane_503.jpg 1 580 73 149 32
+Images/planes4_sorted/plane_504.jpg 2 462 121 229 71 709 162 80 47
+Images/planes4_sorted/plane_505.jpg 1 798 54 151 48
+Images/planes4_sorted/plane_506.jpg 3 389 112 149 38 748 100 205 69 702 158 86 48
+Images/planes4_sorted/plane_507.jpg 1 656 61 152 44
+Images/planes4_sorted/plane_508.jpg 1 516 87 184 63
+Images/planes4_sorted/plane_509.jpg 1 618 77 176 63
+Images/planes4_sorted/plane_51.jpg 2 713 166 106 51 838 60 119 40
+Images/planes4_sorted/plane_510.jpg 1 714 56 130 39
+Images/planes4_sorted/plane_511.jpg 1 689 78 167 35
+Images/planes4_sorted/plane_512.jpg 1 658 62 148 37
+Images/planes4_sorted/plane_513.jpg 1 657 65 154 37
+Images/planes4_sorted/plane_514.jpg 1 690 74 146 37
+Images/planes4_sorted/plane_515.jpg 1 799 67 143 47
+Images/planes4_sorted/plane_516.jpg 1 780 69 145 44
+Images/planes4_sorted/plane_517.jpg 1 104 402 377 198
+Images/planes4_sorted/plane_518.jpg 1 758 54 141 48
+Images/planes4_sorted/plane_519.jpg 1 90 377 358 164
+Images/planes4_sorted/plane_52.jpg 1 692 72 142 37
+Images/planes4_sorted/plane_520.jpg 1 499 63 142 54
+Images/planes4_sorted/plane_521.jpg 1 754 67 125 41
+Images/planes4_sorted/plane_522.jpg 2 844 53 157 59 687 130 134 54
+Images/planes4_sorted/plane_523.jpg 1 434 93 156 47
+Images/planes4_sorted/plane_524.jpg 2 680 104 235 70 713 165 77 40
+Images/planes4_sorted/plane_525.jpg 1 670 134 150 57
+Images/planes4_sorted/plane_526.jpg 1 670 65 143 45
+Images/planes4_sorted/plane_527.jpg 1 7 260 193 88
+Images/planes4_sorted/plane_528.jpg 1 823 55 103 45
+Images/planes4_sorted/plane_529.jpg 1 484 64 100 43
+Images/planes4_sorted/plane_53.jpg 1 668 86 184 64
+Images/planes4_sorted/plane_530.jpg 2 850 64 150 67 681 147 139 51
+Images/planes4_sorted/plane_531.jpg 1 6 114 97 39
+Images/planes4_sorted/plane_532.jpg 4 663 53 157 50 738 97 202 45 689 131 131 59 846 53 151 57
+Images/planes4_sorted/plane_533.jpg 2 45 122 100 48 83 368 359 176
+Images/planes4_sorted/plane_534.jpg 1 726 64 188 68
+Images/planes4_sorted/plane_535.jpg 1 661 78 162 40
+Images/planes4_sorted/plane_536.jpg 1 699 69 177 74
+Images/planes4_sorted/plane_537.jpg 2 753 97 204 66 701 152 94 57
+Images/planes4_sorted/plane_538.jpg 2 620 34 94 39 671 73 145 33
+Images/planes4_sorted/plane_539.jpg 1 553 80 191 59
+Images/planes4_sorted/plane_54.jpg 3 1 155 153 56 752 97 214 73 703 162 92 46
+Images/planes4_sorted/plane_540.jpg 1 655 63 153 39
+Images/planes4_sorted/plane_541.jpg 1 95 396 387 199
+Images/planes4_sorted/plane_542.jpg 1 519 49 92 34
+Images/planes4_sorted/plane_543.jpg 1 816 60 148 42
+Images/planes4_sorted/plane_544.jpg 1 680 34 83 33
+Images/planes4_sorted/plane_545.jpg 2 509 117 219 81 714 163 77 43
+Images/planes4_sorted/plane_546.jpg 1 75 118 97 46
+Images/planes4_sorted/plane_547.jpg 1 284 115 157 48
+Images/planes4_sorted/plane_548.jpg 3 563 95 135 35 757 101 196 60 706 165 87 41
+Images/planes4_sorted/plane_549.jpg 1 619 83 152 38
+Images/planes4_sorted/plane_55.jpg 2 681 140 141 60 848 64 152 56
+Images/planes4_sorted/plane_550.jpg 2 679 107 244 69 709 168 82 38
+Images/planes4_sorted/plane_551.jpg 1 666 77 152 38
+Images/planes4_sorted/plane_552.jpg 2 325 140 238 77 710 167 82 38
+Images/planes4_sorted/plane_553.jpg 1 402 102 149 44
+Images/planes4_sorted/plane_554.jpg 2 3 368 334 130 847 54 154 59
+Images/planes4_sorted/plane_555.jpg 2 756 101 222 72 710 166 87 41
+Images/planes4_sorted/plane_556.jpg 1 924 40 97 29
+Images/planes4_sorted/plane_557.jpg 1 463 84 142 33
+Images/planes4_sorted/plane_558.jpg 3 796 61 127 47 751 100 204 64 712 165 79 40
+Images/planes4_sorted/plane_559.jpg 1 147 123 149 38
+Images/planes4_sorted/plane_56.jpg 1 686 75 172 65
+Images/planes4_sorted/plane_560.jpg 2 750 100 202 67 706 166 113 54
+Images/planes4_sorted/plane_561.jpg 2 669 96 241 77 713 167 75 37
+Images/planes4_sorted/plane_562.jpg 1 718 73 185 64
+Images/planes4_sorted/plane_563.jpg 2 844 54 156 59 102 369 387 162
+Images/planes4_sorted/plane_564.jpg 1 849 65 154 62
+Images/planes4_sorted/plane_565.jpg 1 42 310 276 117
+Images/planes4_sorted/plane_566.jpg 1 434 68 162 58
+Images/planes4_sorted/plane_567.jpg 2 726 44 85 40 95 384 364 160
+Images/planes4_sorted/plane_568.jpg 1 596 77 118 67
+Images/planes4_sorted/plane_569.jpg 1 768 69 184 68
+Images/planes4_sorted/plane_57.jpg 1 753 66 148 48
+Images/planes4_sorted/plane_570.jpg 1 604 77 163 66
+Images/planes4_sorted/plane_571.jpg 2 344 134 237 79 712 162 81 42
+Images/planes4_sorted/plane_572.jpg 2 706 163 104 51 756 103 201 62
+Images/planes4_sorted/plane_573.jpg 1 578 56 90 40
+Images/planes4_sorted/plane_574.jpg 1 739 70 129 39
+Images/planes4_sorted/plane_575.jpg 1 851 51 151 60
+Images/planes4_sorted/plane_576.jpg 1 691 156 136 61
+Images/planes4_sorted/plane_577.jpg 1 502 88 193 65
+Images/planes4_sorted/plane_578.jpg 2 684 139 140 63 849 69 156 57
+Images/planes4_sorted/plane_579.jpg 1 397 165 119 44
+Images/planes4_sorted/plane_58.jpg 3 851 73 114 28 757 102 210 67 714 167 98 45
+Images/planes4_sorted/plane_580.jpg 1 38 145 153 34
+Images/planes4_sorted/plane_581.jpg 3 827 56 131 48 752 102 220 68 706 163 89 43
+Images/planes4_sorted/plane_582.jpg 1 677 75 142 40
+Images/planes4_sorted/plane_583.jpg 2 580 115 233 68 715 167 74 40
+Images/planes4_sorted/plane_584.jpg 1 64 135 157 37
+Images/planes4_sorted/plane_585.jpg 2 756 85 224 75 711 152 96 49
+Images/planes4_sorted/plane_586.jpg 2 685 141 136 55 850 67 153 56
+Images/planes4_sorted/plane_587.jpg 2 843 53 153 58 99 366 378 160
+Images/planes4_sorted/plane_588.jpg 1 699 79 152 37
+Images/planes4_sorted/plane_589.jpg 2 755 81 218 75 709 145 79 51
+Images/planes4_sorted/plane_590.jpg 1 868 51 135 46
+Images/planes4_sorted/plane_591.jpg 1 840 49 96 34
+Images/planes4_sorted/plane_592.jpg 1 753 53 116 43
+Images/planes4_sorted/plane_593.jpg 1 100 388 348 156
+Images/planes4_sorted/plane_594.jpg 1 672 68 144 38
+Images/planes4_sorted/plane_595.jpg 1 643 78 152 40
+Images/planes4_sorted/plane_596.jpg 1 653 78 151 37
+Images/planes4_sorted/plane_597.jpg 1 873 47 114 42
+Images/planes4_sorted/plane_598.jpg 2 752 101 203 68 707 160 125 62
+Images/planes4_sorted/plane_599.jpg 2 708 171 106 46 757 100 201 72
+Images/planes4_sorted/plane_6.jpg 1 660 63 179 69
+Images/planes4_sorted/plane_60.jpg 2 754 98 195 71 709 163 81 40
+Images/planes4_sorted/plane_600.jpg 1 878 42 114 41
+Images/planes4_sorted/plane_601.jpg 2 571 117 226 63 714 168 77 38
+Images/planes4_sorted/plane_602.jpg 1 819 58 112 39
+Images/planes4_sorted/plane_603.jpg 1 100 388 382 208
+Images/planes4_sorted/plane_604.jpg 1 515 85 190 66
+Images/planes4_sorted/plane_605.jpg 2 754 100 202 74 706 161 121 60
+Images/planes4_sorted/plane_606.jpg 1 136 312 241 107
+Images/planes4_sorted/plane_607.jpg 1 847 67 152 64
+Images/planes4_sorted/plane_608.jpg 2 373 130 232 83 704 166 88 42
+Images/planes4_sorted/plane_609.jpg 2 752 97 202 66 378 188 110 50
+Images/planes4_sorted/plane_61.jpg 1 777 68 140 43
+Images/planes4_sorted/plane_610.jpg 3 867 77 141 41 750 103 214 59 714 170 77 35
+Images/planes4_sorted/plane_611.jpg 2 106 365 350 162 846 54 153 57
+Images/planes4_sorted/plane_612.jpg 1 3 301 250 115
+Images/planes4_sorted/plane_613.jpg 1 847 67 156 66
+Images/planes4_sorted/plane_614.jpg 1 623 77 172 66
+Images/planes4_sorted/plane_615.jpg 3 110 152 155 45 756 105 212 62 711 166 81 48
+Images/planes4_sorted/plane_616.jpg 2 320 138 242 78 697 163 94 42
+Images/planes4_sorted/plane_617.jpg 1 941 38 83 34
+Images/planes4_sorted/plane_618.jpg 1 326 108 165 48
+Images/planes4_sorted/plane_619.jpg 2 92 366 384 162 845 55 158 59
+Images/planes4_sorted/plane_62.jpg 1 530 83 193 60
+Images/planes4_sorted/plane_620.jpg 1 707 164 107 50
+Images/planes4_sorted/plane_621.jpg 1 371 163 145 59
+Images/planes4_sorted/plane_622.jpg 1 293 111 166 47
+Images/planes4_sorted/plane_623.jpg 1 809 53 182 68
+Images/planes4_sorted/plane_624.jpg 3 819 76 143 46 749 103 212 63 708 163 83 42
+Images/planes4_sorted/plane_625.jpg 1 190 119 152 37
+Images/planes4_sorted/plane_626.jpg 1 606 74 164 68
+Images/planes4_sorted/plane_627.jpg 1 613 68 157 68
+Images/planes4_sorted/plane_628.jpg 1 790 51 128 39
+Images/planes4_sorted/plane_629.jpg 1 280 96 158 48
+Images/planes4_sorted/plane_63.jpg 1 626 79 167 63
+Images/planes4_sorted/plane_630.jpg 1 669 67 149 42
+Images/planes4_sorted/plane_631.jpg 3 574 92 143 38 754 95 205 70 713 163 76 43
+Images/planes4_sorted/plane_632.jpg 1 247 334 275 99
+Images/planes4_sorted/plane_633.jpg 2 752 98 209 71 705 162 88 43
+Images/planes4_sorted/plane_634.jpg 1 681 78 140 42
+Images/planes4_sorted/plane_635.jpg 1 481 82 151 39
+Images/planes4_sorted/plane_636.jpg 1 98 367 348 173
+Images/planes4_sorted/plane_637.jpg 1 845 61 155 42
+Images/planes4_sorted/plane_638.jpg 2 849 66 153 62 689 136 136 71
+Images/planes4_sorted/plane_639.jpg 1 848 77 150 57
+Images/planes4_sorted/plane_64.jpg 3 19 151 156 54 753 99 214 68 705 162 89 45
+Images/planes4_sorted/plane_640.jpg 1 752 52 136 38
+Images/planes4_sorted/plane_641.jpg 2 754 97 214 77 709 162 88 44
+Images/planes4_sorted/plane_642.jpg 2 682 138 132 63 848 65 159 59
+Images/planes4_sorted/plane_643.jpg 2 686 142 141 60 849 68 156 56
+Images/planes4_sorted/plane_644.jpg 3 756 96 207 70 711 164 83 44 342 117 147 39
+Images/planes4_sorted/plane_645.jpg 1 545 80 196 73
+Images/planes4_sorted/plane_646.jpg 1 788 141 105 52
+Images/planes4_sorted/plane_647.jpg 1 99 373 351 172
+Images/planes4_sorted/plane_648.jpg 2 706 166 108 53 754 100 198 65
+Images/planes4_sorted/plane_649.jpg 1 837 62 145 44
+Images/planes4_sorted/plane_65.jpg 1 705 71 161 43
+Images/planes4_sorted/plane_650.jpg 1 850 66 152 59
+Images/planes4_sorted/plane_651.jpg 1 844 47 156 65
+Images/planes4_sorted/plane_652.jpg 1 812 49 127 41
+Images/planes4_sorted/plane_653.jpg 1 847 48 158 64
+Images/planes4_sorted/plane_654.jpg 1 496 75 142 55
+Images/planes4_sorted/plane_655.jpg 1 524 94 197 57
+Images/planes4_sorted/plane_656.jpg 2 848 57 155 62 69 382 342 151
+Images/planes4_sorted/plane_657.jpg 2 417 94 144 32 913 44 101 32
+Images/planes4_sorted/plane_658.jpg 1 706 60 147 39
+Images/planes4_sorted/plane_659.jpg 2 711 166 99 53 754 104 199 64
+Images/planes4_sorted/plane_66.jpg 2 706 165 84 44 755 104 201 66
+Images/planes4_sorted/plane_660.jpg 1 847 52 149 61
+Images/planes4_sorted/plane_661.jpg 1 96 382 343 156
+Images/planes4_sorted/plane_662.jpg 1 554 84 186 54
+Images/planes4_sorted/plane_663.jpg 1 854 68 147 58
+Images/planes4_sorted/plane_664.jpg 3 296 118 158 47 756 101 204 67 707 162 87 45
+Images/planes4_sorted/plane_665.jpg 1 459 67 98 33
+Images/planes4_sorted/plane_666.jpg 1 848 73 151 57
+Images/planes4_sorted/plane_667.jpg 1 293 105 149 35
+Images/planes4_sorted/plane_668.jpg 2 752 98 215 73 705 162 111 61
+Images/planes4_sorted/plane_669.jpg 1 97 390 343 149
+Images/planes4_sorted/plane_67.jpg 1 220 113 153 38
+Images/planes4_sorted/plane_670.jpg 1 770 55 128 43
+Images/planes4_sorted/plane_671.jpg 1 738 59 185 66
+Images/planes4_sorted/plane_672.jpg 1 771 72 180 63
+Images/planes4_sorted/plane_673.jpg 2 850 66 151 59 686 136 137 67
+Images/planes4_sorted/plane_674.jpg 2 710 165 83 44 753 97 205 70
+Images/planes4_sorted/plane_675.jpg 2 619 34 93 40 675 69 145 39
+Images/planes4_sorted/plane_676.jpg 2 325 140 238 78 710 166 105 55
+Images/planes4_sorted/plane_677.jpg 3 594 92 142 39 754 97 207 68 699 164 93 47
+Images/planes4_sorted/plane_678.jpg 3 597 59 93 40 753 100 209 66 700 162 92 43
+Images/planes4_sorted/plane_679.jpg 3 91 155 152 36 751 104 202 64 702 168 93 38
+Images/planes4_sorted/plane_68.jpg 1 791 67 145 46
+Images/planes4_sorted/plane_680.jpg 1 776 55 185 72
+Images/planes4_sorted/plane_681.jpg 1 537 67 121 56
+Images/planes4_sorted/plane_682.jpg 1 708 58 186 67
+Images/planes4_sorted/plane_683.jpg 1 599 80 185 65
+Images/planes4_sorted/plane_684.jpg 1 146 393 386 181
+Images/planes4_sorted/plane_685.jpg 3 708 162 82 46 754 99 201 66 909 43 107 46
+Images/planes4_sorted/plane_686.jpg 2 48 379 343 157 848 55 152 62
+Images/planes4_sorted/plane_687.jpg 1 597 73 126 53
+Images/planes4_sorted/plane_688.jpg 4 657 53 161 48 847 54 153 57 736 102 214 45 679 129 140 57
+Images/planes4_sorted/plane_689.jpg 1 737 72 190 62
+Images/planes4_sorted/plane_69.jpg 2 847 54 150 58 101 370 349 144
+Images/planes4_sorted/plane_690.jpg 1 851 60 152 45
+Images/planes4_sorted/plane_691.jpg 1 873 58 145 41
+Images/planes4_sorted/plane_692.jpg 1 504 93 189 55
+Images/planes4_sorted/plane_694.jpg 3 715 162 96 59 756 101 218 73 821 66 112 36
+Images/planes4_sorted/plane_695.jpg 2 685 126 133 63 844 55 156 56
+Images/planes4_sorted/plane_696.jpg 1 781 54 122 47
+Images/planes4_sorted/plane_697.jpg 3 187 141 155 39 754 100 222 72 702 166 94 39
+Images/planes4_sorted/plane_699.jpg 2 683 139 136 60 848 67 153 56
+Images/planes4_sorted/plane_7.jpg 1 586 64 121 57
+Images/planes4_sorted/plane_70.jpg 2 621 168 124 52 755 102 210 67
+Images/planes4_sorted/plane_700.jpg 2 686 142 134 57 846 64 154 60
+Images/planes4_sorted/plane_701.jpg 1 609 73 141 34
+Images/planes4_sorted/plane_702.jpg 1 508 77 141 53
+Images/planes4_sorted/plane_703.jpg 2 353 139 228 72 705 165 121 56
+Images/planes4_sorted/plane_704.jpg 1 739 70 188 69
+Images/planes4_sorted/plane_705.jpg 1 257 109 159 38
+Images/planes4_sorted/plane_706.jpg 1 801 55 194 68
+Images/planes4_sorted/plane_707.jpg 1 649 73 174 66
+Images/planes4_sorted/plane_708.jpg 2 678 141 149 63 847 66 155 64
+Images/planes4_sorted/plane_709.jpg 1 725 64 139 43
